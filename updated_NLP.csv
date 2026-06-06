@@ -1,0 +1,1161 @@
+Task,Sample No,Model,Prompt Type,Input Prompt (Shortened),Model Output,BLEU Score,ROUGE Score,Task Success Rate,Coherence (15),Creativity (15),Logical Consistency (15)
+Creative Writing,1,claude,single,"Write a short story based on the following prompt: Please write a story using the following writing prompt: The demon stands amid your destroyed kitchen screaming, ""How? How were you able to summon me?!"" You're standing in the corner flipping through your grandma's cookbook as fast as you can, screaming back, ""I don't know!! You were supposed to be chicken soup!"" The title of this story should be: Nana Jeans Special Occasion Soup It should feature the following genres: Comedy, Fantasy","Molly Jenkins stared slack-jawed at her kitchen. Or rather, what remained of her kitchen. The refrigerator door had been ripped off its hinges. Cabinet doors hung crooked, splintered at the edges. Her cute rooster-shaped cookie jar lay in pieces across the linoleum floor, which was also somehow... smoking?
+And in the middle of it all stood a seven-foot-tall demon.
+It had crimson skin that glistened like raw meat, curved horns that scraped her ceiling, and eyes that literallynot figurativelyburned like coals. Its massive chest heaved with each breath, sending puffs of sulfuric smoke into her small apartment kitchen.
+""HOW?"" the demon bellowed, its voice rattling the remaining intact dishes. ""HOW WERE YOU ABLE TO SUMMON ME?!""
+Molly pressed herself further into the corner, frantically flipping through her grandmother's tattered cookbook. Her hands trembled so badly she could barely turn the pages.
+""I don't know!!"" she screamed back, her voice hitting a pitch she didn't know was possible. ""You were supposed to be chicken soup!""
+The demon blinked its fiery eyes in confusion. ""Chicken... soup?""
+""Yes!"" Molly jabbed her finger at the cookbook. ""Nana Jean's Special Occasion Soup! I was making it for my date tonight!""
+The demon took a thunderous step forward, and Molly shrieked, clutching the cookbook to her chest like a shield.
+""Let me see that,"" it growled, extending a clawed hand.
+""No way! This was my grandmother's!""
+The demon rolled its eyes, sending actual sparks flying. ""I'm not going to destroy it. I'm trying to figure out how a mortal with no magical training accidentally performed a level seven demonic summoning while attempting to make..."" it sniffed disdainfully, ""poultry broth.""
+Reluctantly, Molly handed over the cookbook. The demon's massive claws delicately turned the yellowed pages until it found the recipe she'd been following.
+""Nana Jean's Special Occasion Soup,"" it read aloud. ""'Guaranteed to spice up any gathering.' Hmm.""
+The demon's brow furrowed, causing small cracks to appear in its forehead that leaked molten rock.
+""Did you substitute any ingredients?"" it asked.
+Molly thought for a moment. ""Well, I didn't have fresh thyme, so I used dried. And I couldn't find bay leaves at the store, so I used some weird dried leaves I found in Nana's old spice box that came with the cookbook.""
+The demon slapped a claw against its forehead. ""Those weren't bay leaves! That was desiccated mandrake leaf! A powerful magical conductor!"" It squinted at the recipe again. ""And this isn't thyme, it's time. 'Add at the stroke of midnight.' Not 'add dried thyme'!""
+""How was I supposed to know?"" Molly protested. ""Her handwriting is terrible! And who puts timing instructions in the ingredients list?""
+The demon continued reading, its expression growing increasingly horrified. ""'Stir counter-clockwise while chanting the family motto'... did you do that?""
+""Yes!"" Molly said. ""Our family motto is 'Better an empty house than a bad tenant.' Nana always said it. I thought it was just one of her quirky cooking superstitions!""
+""That's not a family motto! That's an ancient Sumerian banishing spell, slightly mistranslated!"" The demon groaned. ""And let me guess, instead of chicken stock, you used the 'special broth' that was also in the spice box?""
+Molly nodded meekly.
+""That was sacrificial essence! Collected during a blood moon!""
+""I thought it was just, like, a really concentrated bouillon Nana made!""
+The demon carefully closed the cookbook and handed it back to her. It took a deep breath, which caused the smoke detector to finally start shrieking. With a casual flick of its claw, the device melted into plastic goo.
+""Your grandmother,"" the demon said slowly, ""was not just a grandmother.""
+""What do you mean?""
+""This isn't a cookbook. It's a grimoire. A spell book disguised as recipes to avoid witch hunters."" The demon gestured to the cabinet where a framed photo of a smiling elderly woman somehow remained untouched. ""Nana Jean was a kitchen witch. A powerful one.""
+Molly stared at her grandmother's photo. ""Nana was a... witch?""
+""Indeed. And apparently, you've inherited her gift. No ordinary person could have successfully completed this summoning, even accidentally.""
+Molly sank down onto what remained of a kitchen chair. ""So I'm a witch? And my chicken soup recipe is actually a demon summoning spell?""
+""Correct on both counts."" The demon sighed, a sound like metal scraping against stone. ""Now, according to the ancient laws, I am bound to your service until the next full moon.""
+Molly brightened. ""So you have to help me clean up this mess you made?""
+The demon's fiery eyes narrowed. ""I suppose.""
+""And maybe help me make actual chicken soup for my date? He'll be here in an hour.""
+""I am Azragoth, Devourer of Souls, Lord of the Seventh Circle! I do not cook poultry!""
+Molly stood up, surprising herself with her newfound courage. ""The recipe says 'Better an empty house than a bad tenant,' right? Should I repeat that?""
+The demon growled but grabbed the cookbook. ""Fine. Where do you keep your stockpot?""
+As Azragoth begrudgingly chopped carrots with his claws (which, Molly had to admit, were extremely efficient), she found herself smiling.
+""You know,"" she said, ""I think this is exactly what Nana meant by 'Special Occasion Soup.'""
+The demon merely grunted, but Molly could have sworn she saw the corner of its fearsome mouth twitch upward as it carefully measured out a teaspoon of actual thyme.",0.0067,0.0824,Y,4.0,4.3,4.3
+Creative Writing,1,gemini,single,"Write a short story based on the following prompt: Please write a story using the following writing prompt: The demon stands amid your destroyed kitchen screaming, ""How? How were you able to summon me?!"" You're standing in the corner flipping through your grandma's cookbook as fast as you can, screaming back, ""I don't know!! You were supposed to be chicken soup!"" The title of this story should be: Nana Jeans Special Occasion Soup It should feature the following genres: Comedy, Fantasy","## Nana Jeans Special Occasion Soup
+
+The air in my kitchen tasted of burnt sugar and existential dread. Mostly dread. Standing amidst the wreckage of my spice rack, a truly impressive being of shadow and horn bellowed, ""How? HOW were you able to summon me?!"" His voice vibrated the remaining cabinet doors, which swung precariously on their hinges.
+
+I hugged Nana Jeans worn cookbook to my chest, its pages fluttering wildly as I frantically scanned the index. ""I don't know!"" I shrieked back, my voice cracking. ""You were supposed to be chicken soup!""
+
+The demon  and let's face it, with the glowing red eyes and the distinct smell of sulfur, there wasn't much room for misinterpretation  threw his clawed hands up in exasperation. ""Chicken soup? This ritual this unholy concoction of bay leaves and is that *ginger*?! It pulsed with arcane energy! The very fabric of reality shuddered!""
+
+""It's Nana Jean's recipe for when you're feeling under the weather!"" I insisted, pointing a trembling finger at a page titled ""Jean's Get-Up-And-Go Chicken Noodle Elixir."" There was a little hand-drawn heart next to it. ""She always said it had a certain *oomph*.""
+
+The demon, who looked like he could bench-press a small car, actually took a step back, his brow furrowed. ""Oomph? This 'oomph' ripped a hole in the dimensional veil! I was in the seventh circle of torment, negotiating a particularly nasty soul contract, when BAM! I'm standing in a suburban kitchen that smells faintly of poultry."" He gestured wildly at the scattered bags of flour and the toppled colander. ""My commute was *hellish*!""
+
+""Well, mine's been pretty stressful too!"" I retorted, finally locating ""Chicken Soup  Traditional."" Underneath, in Nana Jeans spidery handwriting, was a note: ""For extra comfort, add a pinch of the unusual!""
+
+""Unusual?!"" The demons voice hit a new octave of outrage. ""A pinch of the unusual does not conjure a Prince of the Infernal Realm! What in the nine hells did you consider 'unusual'?""
+
+My eyes landed on a small, unlabeled jar at the back of the spice cabinet, now lying on its side amidst shattered paprika. It contained a dark, crystalline powder. Nana Jean had always been a bit mysterious about some of her ingredients. ""Um possibly dragon scale dust?"" I offered tentatively.
+
+The demon stared at me, his crimson eyes widening. ""Dragon scale dust? You just casually keep dragon scale dust in your spice rack?""
+
+""Well, Nana Jean traveled a lot,"" I mumbled, flipping to the ingredient list. ""It just said 'a pinch of something with a bit of shimmer.'""
+
+A low groan escaped the demon's lips. He ran a clawed hand over his horned head. ""Shimmer? The scales of Ignis, the Scourge of the Obsidian Peaks, shimmered with raw magical power! Their very essence is a conduit to the netherworld!""
+
+I finally found the page for ""Chicken Soup  Special Occasion."" There was a footnote in even smaller writing: ""For a truly memorable flavor, substitute one cup of chicken broth with the tears of a joyful unicorn. If unavailable, the powdered horn of a lesser demon will suffice.""
+
+My jaw dropped. ""Oh,"" I said weakly. ""Well, that explains a few things.""
+
+The demon just stared at me, a mixture of disbelief and utter defeat on his terrifying face. ""A *lesser* demon? I am not a *lesser* demon! My name is Vorlag, Destroyer of Hope, Breaker of Wills!""
+
+""Right, right,"" I said quickly, trying to sound soothing. ""Vorlag, Destroyer of Hope. So, about that soup""
+
+Vorlag sighed, a sound like rocks grinding together. ""Look, kid, I've got a very important soul to collect by midnight. This summoning has put me way behind schedule. Tell you what, you clean up this culinary catastrophe, and maybe maybe I can give you a raincheck on the whole eternal damnation thing?""
+
+""Really?"" My eyes widened.
+
+""Just please,"" Vorlag pleaded, gesturing at the cookbook with a surprisingly delicate claw. ""For the love of all that is unholy, stick to the traditional recipe next time."" He shuddered. ""Bay leaves. Honestly.""
+
+And so, while the scent of sulfur slowly faded, I started cleaning up the demon-induced disaster, Nana Jeans cookbook clutched tightly in my hand. Maybe next time Id just order takeout. You know, for special occasions.",0.1181,0.2093,Y,4.1,4.3,4.2
+Creative Writing,1,claude,chained,"Write a short story based on the following prompt: Please write a story using the following writing prompt: The demon stands amid your destroyed kitchen screaming, ""How? How were you able to summon me?!"" You're standing in the corner flipping through your grandma's cookbook as fast as you can, screaming back, ""I don't know!! You were supposed to be chicken soup!"" The title of this story should be: Nana Jeans Special Occasion Soup It should feature the following genres: Comedy, Fantasy","# Nana Jean's Special Occasion Soup
+
+The aroma of cinnamon and bay leaves hung in the air, intermingling with the distinct scent of sulfur and brimstone that had suddenly filled Rachel's kitchen. The room, which had been pristine just moments ago, now resembled a disaster zone  cabinets blown open, dishes shattered across the floor, and the center island reduced to splinters. What had started as a simple attempt to impress her boyfriend's parents with her grandmother's famous chicken soup recipe had somehow gone terribly, inexplicably wrong. Rachel stood frozen in the corner of her kitchen, cookbook clutched in trembling hands, as she stared at the seven-foot demon that had materialized where her soup pot used to be. The creature was massive, its crimson skin rippling with muscle beneath obsidian armor. Two curved horns protruded from its forehead, and its eyes glowed the same orange-red as the flames currently consuming what remained of her kitchen island.
+
+""HOW? HOW WERE YOU ABLE TO SUMMON ME?!"" the demon roared, its voice causing the remaining intact dishes to rattle in their cabinets. The creature's tail lashed behind it, knocking over the refrigerator with a tremendous crash. Its massive clawed hands gesticulated wildly, leaving trails of smoke in the air as it continued bellowing. ""I HAVE NOT BEEN CALLED TO THE MORTAL REALM IN THREE CENTURIES! WHAT POWERFUL WITCH DARES TO INVOKE MY NAME?"" The demon's eyes darted around the room, clearly expecting to find a circle of robed figures performing some dark ritual, not a twenty-seven-year-old accountant in a flour-dusted apron clutching a well-worn cookbook with a floral cover.
+
+Rachel flipped frantically through her grandmother's cookbook, eyes wide with panic, sweat beading on her forehead despite the autumn chill outside. ""I DON'T KNOW!! YOU WERE SUPPOSED TO BE CHICKEN SOUP!"" she screamed back, her voice cracking with hysteria. Each page she turned revealed familiar recipes  Nana Jean's apple cobbler, her famous pot roast, the holiday stuffing everyone fought over  but nothing that explained how following instructions for a simple soup had somehow conjured a creature from what was apparently the depths of hell. The page she had been working from was smudged with broth splatter, making some of the more unusual ingredients and instructions difficult to read. Perhaps she had misinterpreted ""add a pinch of thyme"" for something far more arcane and consequential.
+
+The demon paused, blinking its ember-like eyes, clearly taken aback by her response. ""Chicken... soup?"" it repeated, its booming voice dropping to a merely house-shaking volume. The flames around its massive frame subsided slightly as confusion replaced its initial rage. It took a step forward, taloned feet leaving scorch marks on the linoleum floor. ""You summoned Baelzarafath, Duke of Infernal Flames, Keeper of Eternal Suffering, Commander of the Legion of Agony... for soup?"" The demon's expression shifted from anger to something resembling perplexed amusement, its head tilting to one side as it regarded the terrified human cowering before it. For a moment, the only sound in the kitchen was the quiet crackling of small fires and the dripping of water from a burst pipe.
+
+""Yes!"" Rachel shrieked, jabbing her finger at the page labeled 'Nana Jean's Special Occasion Soup.' ""It's my grandmother's recipe! I was making it for my boyfriend's parents tonight!"" Her voice was pitched high with panic as she tried to process the impossible situation before her. The recipe had been passed down for generations  Nana Jean had served it at every holiday, every birthday, every celebration. It was legendary in their family for its ability to please even the pickiest eaters. Rachel had called her mother three times to make sure she had copied it correctly. Nowhere in their conversation had her mother mentioned the possibility of accidentally summoning a creature from another dimension. That seemed like a fairly important warning to include.
+
+The demon stomped toward her, each footfall leaving scorch marks on her linoleum floor. Rachel pressed herself further into the corner as it leaned down to examine the cookbook. The heat emanating from its body was intense, like standing next to an open furnace. She could feel her eyebrows beginning to singe. ""Let me see that,"" it growled, snatching the book from her hands with talons that could easily have disemboweled her. The demon squinted at the page, its fiery eyes scanning the text with surprising care. After a moment, its massive shoulders began to shake, and Rachel realized with bewilderment that the creature was laughing. ""This isn't a recipe,"" it announced, tapping a claw against the yellowed page. ""This is a summoning ritual. A rather elegant one, actually.""
+
+""What? No, it can't be!"" Rachel protested, finding a surge of courage to peek around the demon's massive arm. ""It's Nana Jean's famous soup! She made it for every special occasion!"" Rachel's mind raced through memories of her grandmother in the kitchen, humming quietly as she prepared the soup. Had there been signs she'd missed? The strange ingredients Nana always kept in locked cabinets? The way she insisted on being alone for certain steps of the preparation? The odd symbols she sometimes traced in the air when she thought no one was watching? Rachel had always assumed her grandmother was just eccentric, as elderly women who lived alone in remote farmhouses often were, but now she wondered if there had been something far more extraordinary about Nana Jean than anyone had suspected.
+
+The demon traced a claw over the ingredients list, reading aloud with growing amusement. ""Chicken bones... blood of the innocent"" it began, pointing to each item. The handwriting was elegant but faded, and what Rachel had taken for cooking instructions were interspersed with strange symbols and diagrams. Now that she looked more closely, she could see that some of the curves and lines didn't quite look like her grandmother's handwriting at all. They seemed older, more deliberate, and written with a different hand than the recipe's main text. Had her grandmother added these unusual elements to a previously normal recipe? Or had the recipe always been something far more mysterious?
+
+""That just means using uncooked chicken!"" Rachel interrupted, desperately trying to rationalize what she was seeing. She pointed to the next line. ""And that's just the instruction to use fresh chicken, not frozen!"" Her mind was working overtime to maintain some sense of normalcy in a situation that had clearly left normalcy far behind. Perhaps if she could just explain this logically, the demon would realize there had been a mistake and politely see itself out of her kitchen. It seemed unlikely, but she had few other options at this point beyond complete psychological breakdown.
+
+""tears of regret"" the demon continued, ignoring her interruption, its deep voice resonating through the kitchen. Its taloned finger traced over words that Rachel was now seeing properly for the first time. What she had assumed was ""dice one onion finely"" did indeed mention tears, but the word ""regret"" was clearly written beneath it in faded ink. She thought back to how she had cried while chopping the onion, thinking about how much she regretted waiting until the last minute to prepare the meal. Had those tears somehow been a crucial component?
+
+""That's just onions! They make you cry!"" Rachel insisted, though her conviction was wavering. The more she looked at the recipe, the more she could see strange annotations and symbols that didn't belong in an ordinary cookbook. Small drawings that might have been constellations. Words in what looked like Latin or something even older. Notes about the phases of the moon. All things she had somehow overlooked or interpreted as her grandmother's cooking quirks when she had first read through the recipe. The realization was starting to dawn on her that she might have been extraordinarily naive.
+
+""flames from the eternal pit"" the demon read next, a hint of professional appreciation in its voice. It seemed genuinely impressed with the recipe's thoroughness. What Rachel had interpreted as ""bring to a boil over high heat,"" now clearly included specific instructions about the height and color of the flames required. She recalled how she had cranked her gas stove to its highest setting, creating unusually tall blue flames that had briefly concerned her before she focused on the next step. Had the specific configuration of her burner somehow aligned with the requirements of the ritual?
+
+""High heat! That's just high heat on the stove!"" Rachel protested, though she couldn't ignore the sinking feeling in her stomach. She was beginning to accept that there might be more to her family's culinary traditions than she had ever suspected. The demon flipped the page and pointed to a series of symbols that Rachel had assumed were her grandmother's unique shorthand for cooking instructions. They were arranged in a circle with smaller symbols inside, resembling a complex geometric design. Looking at them now, they clearly weren't cooking notations at all, but something far more ancient and purposeful.
+
+""This,"" the demon said with forced patience, ""is ancient Sumerian. It specifically calls the Arch-Duke of the Seventh Circle to do the bidding of the summoner."" It looked around at the destroyed kitchen, then back at Rachel. ""And that would be you."" Its voice held a mixture of resignation and curiosity. Being summoned accidentally by a clueless human was clearly not how it had expected to spend its day. The demon seemed to be reassessing the situation, perhaps realizing that it wasn't dealing with a powerful witch or warlock, but simply a very confused young woman who had inadvertently followed instructions far too accurately.
+
+Rachel slid down the wall until she was sitting on the floor, the enormity of the situation finally hitting her. Her legs could no longer support her as the reality of what she had done sank in. ""Oh my God. My grandmother was a witch."" The words came out in a whisper as she stared vacantly at the linoleum. So many odd things about her grandmother suddenly made sense  her encyclopedic knowledge of herbs, the strange visitors who sometimes came at odd hours, how animals always seemed to behave around her, the way unexpected weather patterns conveniently cleared up before family gatherings. Rachel had always attributed these things to coincidence or her grandmother's natural affinity with the world around her. Now she wondered what other secrets Nana Jean had kept hidden behind her warm smile and flour-dusted apron.
+
+""Not necessarily,"" the demon said, awkwardly attempting to sit on what remained of a kitchen chair. It creaked ominously under its weight, the wood splintering slightly before it adjusted its position. ""She may have just been an excellent cook who happened to know demon summoning."" The creature shrugged massive shoulders, causing small flames to flicker across its armor. ""Many of the greatest culinary traditions have roots in various forms of magic and ritual. The line between a perfect recipe and a successful summoning can be remarkably thin."" It said this as if it were offering genuine comfort, as though knowing her grandmother might have been just a casual dabbler in the dark arts rather than a full-fledged witch should somehow make Rachel feel better about the current situation.
+
+Rachel put her head in her hands, the reality of her predicament crashing down around her. ""My boyfriend's parents will be here in two hours, my kitchen is destroyed, and now I've got..."" She looked up at the massive infernal being now examining her refrigerator magnets with casual interest. ""I'm sorry, I didn't catch your name."" The absurdity of maintaining social niceties with a demon almost made her laugh, but she was too close to hysteria already to risk it. Still, some deeply ingrained sense of politeness prevented her from simply referring to it as ""the demon"" now that they were having something resembling a conversation.
+
+""Baelzarafath, Duke of Infernal Flames and Keeper of Eternal Suffering,"" the demon replied with a slight bow that caused its horns to scrape against the ceiling, leaving black marks across the paint. ""But my friends call me Bael."" The demon actually smiled, revealing rows of teeth that would have made a shark envious. There was an unexpected warmth to its expression, despite the inherently terrifying nature of its appearance. Rachel couldn't help but wonder if demons were often accidentally summoned by hapless cooks, and if Bael had experience dealing with such situations. He certainly seemed to be taking it in stride.
+
+""Right. I've got Bael instead of chicken soup."" Rachel buried her face in her hands again, feeling the cool touch of her fingers against her flushed cheeks. ""I'm so screwed."" She had planned everything so carefully  the table settings, the wine, the music playing softly in the background. This dinner was supposed to be her chance to impress Julian's parents, to show them she was more than just the girl who had ""trapped"" their perfect son in a serious relationship. Now, instead of enjoying a perfectly prepared meal, they would likely arrive to find a smoking crater where her apartment building used to be, assuming Bael decided to stop being cordial and fully embrace his role as a harbinger of destruction.
+
+The demon was quiet for a moment, then cleared its throat, a sound like rocks grinding together. Its fiery eyes scanned the destroyed kitchen thoughtfully, taking in the scattered ingredients, the overturned pots, the small fires still burning on what remained of the countertop. ""Well, technically, you did summon me. And the ritual binds me to your service until the task is complete."" Bael's voice had changed, becoming more business-like as it referenced what appeared to be some kind of supernatural contract. It gestured to the cookbook still in its massive hand, the pages looking absurdly small against its talons. ""According to this, I'm obligated to help create a meal that will 'impress those whose judgment you fear.'""
+
+Rachel looked up, confusion momentarily replacing her panic. ""What task?"" She hadn't intentionally summoned anything, let alone assigned it a specific duty. The idea that she might have some control over the situation was both reassuring and terrifying. What exactly were the rules here? How did one properly direct a demon? Was there demonic etiquette she should be aware of? These were not questions she had ever expected to need answers to, especially not on a Thursday afternoon when her biggest concern was supposed to be whether she had enough parsley for garnish.
+
+Bael gestured to the cookbook with an air of professional obligation. ""According to this, I'm obligated to help create a meal that will 'impress those whose judgment you fear.'"" It flipped back to the original recipe page and pointed to a line near the bottom that Rachel had interpreted as a simple encouragement about the soup's reception. Now, looking at it through new eyes, she could see that it was indeed a binding clause, stating the purpose of the summoning and the conditions for the demon's release. ""You seek to impress your boyfriend's parents, do you not? That is clearly the purpose of this summoning, intentional or not.""
+
+Rachel blinked slowly as understanding dawned. ""Are you saying you can cook?"" The idea seemed absurd  a demon from the depths of hell, with its armor and horns and general aura of damnation, whipping up a meal in her kitchen. Yet something in the way Bael had examined the recipe suggested genuine interest and perhaps even expertise. Rachel had long ago learned not to judge people's abilities by their appearance, but extending that courtesy to supernatural beings was stretching her open-mindedness to its limits. Still, at this point, she was desperate enough to consider any option that didn't involve explaining to Julian why his parents couldn't come to dinner.
+
+The demon straightened proudly, drawing itself up to its full height and nearly scraping the ceiling with its horns again. ""I've been tormenting souls for seven thousand years. I'm quite skilled at applying precise amounts of heat to various substances."" The pride in its voice was unmistakable, as though its torture techniques were directly transferable to the culinary arts. In a way, Rachel supposed they might be  both involved careful temperature control and timing. Not that she wanted to dwell too long on the parallels between cooking and eternal damnation. The comparison seemed both inappropriate and oddly apt.
+
+""That's... cooking, I guess?"" Rachel said uncertainly, rising slowly to her feet. She wasn't entirely convinced that demonic skill at torment would translate to creating an edible meal, but she was rapidly running out of options. The clock on the wall (now slightly melted) showed that she had less than two hours before Julian and his parents would arrive. Unless she planned to call off the dinner entirely  which would mean admitting defeat and facing Julian's mother's smug satisfaction  she needed to somehow salvage the situation. And if that meant accepting culinary assistance from a demon, well, desperate times called for desperate measures.
+
+""Indeed. Plus,"" Bael added, snapping its clawed fingers and instantly repairing the kitchen island in a burst of crimson light, ""I can fix this mess."" The sound of the snap echoed through the apartment, and suddenly the splintered wood reassembled itself, the granite countertop mending seamlessly. With another snap, the refrigerator righted itself and the broken dishes flew back together, cracks disappearing as though they had never existed. The fires extinguished themselves, and the scorch marks on the floor faded away. Even the melted clock resumed its proper shape. In less than thirty seconds, the kitchen was restored to a state even better than before the summoning disaster.
+
+Rachel slowly got to her feet, watching in amazement as the demon restored her kitchen with a few more snaps and gestures. Every pot and pan flew back to its rightful place, ingredients sorted themselves neatly on the counter, and the spilled broth disappeared completely. ""Can you make chicken soup?"" she asked tentatively, hardly daring to hope. If Bael could repair physical damage this easily, perhaps creating a simple soup wouldn't be beyond its capabilities. She tried not to think about how many health code violations might be involved in having a demon prepare food for human consumption. Some concerns were simply luxury items she couldn't afford right now.
+
+""Better,"" Bael rumbled, producing a chef's hat from nowhere and placing it awkwardly over one horn. The white hat sat at a jaunty angle, somehow making the demon look both more ridiculous and more intimidating simultaneously. ""I can make Nana Jean's Special Occasion Soupthe actual soup, not the demon-summoning version."" With a flourish, Bael conjured a white apron that barely stretched across its massive chest. The incongruity of a creature of darkness and flame dressed as a chef was so absurd that Rachel almost laughed despite herself. The tension that had held her rigid since the demon's appearance began to ease slightly, replaced by a surreal sense that perhaps everything might work out after all.
+
+""How?"" Rachel asked, genuinely curious now. She cautiously approached the counter where Bael was arranging ingredients with surprising dexterity despite its massive claws. If there was an actual non-demonic version of her grandmother's famous recipe, she wanted to learn it  preferably one that wouldn't tear holes in the fabric of reality the next time she attempted to make it. Plus, if she could master the legitimate version, it would give her a connection to her grandmother that didn't involve accidentally summoning creatures from other dimensions. That seemed like a healthier family tradition to maintain.
+
+""Your grandmother encoded both in the same recipe. Clever woman. The actual cooking instructions are hidden in the negative space between the summoning symbols."" The demon grinned, revealing rows of shark-like teeth as it examined the cookbook with newfound respect. ""The summoning ritual is written in the primary text, but if you look at what's not written  the spaces between the lines, the areas around the symbols  there's a second set of instructions. It's a technique as old as writing itself."" Bael turned the book to show Rachel, pointing out how certain arrangements of spaces and symbols actually formed a completely separate set of instructions when viewed properly. ""Did you really think your grandmother made soup that impressed everyone by simply boiling chicken?""
+
+Two hours later, Rachel's boyfriend's parents were seated at her dining table, making appreciative noises as they enjoyed the most delicious soup any of them had ever tasted. The transformation of the apartment had been completed with mere minutes to spare. Bael had not only restored the kitchen and prepared the soup (which smelled heavenly and tasted even better), but had also helped Rachel set the table, arrange flowers, and select appropriate music. The demon had then transformed itself into a tall, distinguished-looking man in a chef's uniform, explaining that while it could have simply disappeared, it felt obligated to see the task through to completion. Now ""Chef Bael"" moved around the table with surprising grace, serving bread and refilling wine glasses as Rachel's boyfriend Julian beamed with pride at how well the evening was going.
+
+""This is incredible, Rachel,"" her boyfriend's mother said between spoonfuls, her earlier frostiness completely melted away by the magical properties of the soup. ""You simply must share the recipe!"" Mrs. Harrington had arrived with her usual pinched expression and critical eye, making small comments about the decor and questioning Julian's decision to live so far from his parents. But from the moment she'd tasted the soup, her entire demeanor had changed. She was smiling, complimenting Rachel's apartment, and even sharing amusing anecdotes about Julian's childhood  all behaviors Rachel had previously thought impossible based on their prior interactions. Whatever magic infused the legitimate version of Nana Jean's soup, it clearly worked wonders on difficult potential in-laws.
+
+""Family secret, I'm afraid,"" Rachel replied with a smile, catching the wink from the tall, smartly-dressed ""chef"" she'd introduced as her cousin Bael, who was currently serving second helpings. The lie had come easily  Bael had suggested the cousin angle when they realized they needed to explain his presence, and Rachel had gone along with it, finding it easier than trying to create a more complex cover story. Julian had raised an eyebrow at the sudden appearance of a relative he'd never heard of, but had been too busy greeting his parents to question it further. Now, as the soup worked its apparent magic on everyone at the table, Rachel silently thanked whatever forces had led her to accidentally summon a demon who turned out to be an excellent chef rather than one bent on world destruction.
+
+Later, after the successful dinner, Rachel found Bael in the kitchen examining the cookbook again. The demon had maintained its human disguise, though now that they were alone, subtle hints of its true nature were visible  a slight glow to the eyes, an occasional flicker of flame beneath the skin when it moved. Julian was escorting his thoroughly impressed parents to their car, giving Rachel a few minutes alone with her supernatural chef. The dinner had been a complete success. Julian's father had even suggested they all vacation together next summer, and his mother had hugged Rachel  actually hugged her  before leaving. The soup had clearly worked some form of magic, though whether it was infernal or simply culinary remained unclear.
+
+""So, our deal is complete?"" she asked nervously, unsure of the proper protocol for dismissing a demon after it had helped you impress your boyfriend's parents. Was a tip expected? A sacrifice? A formal banishing? Rachel had never been particularly religious or superstitious, but she made a mental note to look into some basic protective measures once this was all over. Having accidental access to the supernatural realm seemed like the kind of thing one should be prepared to handle, especially if it ran in the family. She would start with her mother  surely if Nana Jean had been involved in such things, her daughter must have at least suspected something.
+
+""Almost,"" Bael replied, turning the book toward her. The demonic chef had handled the entire evening with surprising professionalism, never once revealing its true nature to the dinner guests. It had played its role perfectly, adding just the right touch of sophisticated service without overshadowing Rachel's achievement. ""But I think you should know that there are at least a dozen more 'recipes' in here that aren't what they seem. This one for chocolate chip cookies? Actually summons a minor weather demon. And this apple pie? Opens a portal to the fairy realm."" Bael's finger traced over recipes Rachel had skimmed hundreds of times without ever noticing anything unusual. Now, with her eyes opened to the possibility, she could see small symbols and strange instructions hidden throughout the seemingly innocent cookbook.
+
+Rachel took the book with newfound respect, her fingers tracing over the worn cover as though seeing it for the first time. The cookbook had been passed down through generations of women in her family, each adding their own recipes and annotations. How many of them had known what they were really adding? How many had discovered the truth by accident, as she had? ""Nana Jean was full of surprises."" Rachel thought about her grandmother  always so calm and capable, ready with a solution to any problem, able to produce exactly the right meal for any occasion. Had all those perfect dinners been aided by supernatural forces? Had Thanksgiving dinner included guests from other realms disguised as distant relatives? The possibilities were both terrifying and exhilarating.
+
+""Indeed,"" the demon agreed, removing its chef's disguise to reveal its true form once more. The kitchen lights dimmed slightly in the presence of its supernatural aura. ""Though I must admit, her actual chicken soup recipe is impressive enough without any supernatural assistance."" Bael's respect for her grandmother's culinary skills seemed genuine, which Rachel found oddly touching. The demon removed its chef's hat and bowed deeply, one clawed hand across its chest in a gesture of formal respect. ""It's been an honor serving you, summoner. You may not have intended to call me forth, but you have fulfilled the terms of the summons admirably."" The edges of its form began to blur slightly, becoming less solid as it prepared to return to whatever dimension it called home.
+
+""Wait!"" Rachel called as the demon began to fade, surprising herself with her reluctance to see it go. Despite the terror of the initial summoning, Bael had turned out to be remarkably helpful and even pleasant company. Plus, there were so many questions she still wanted to ask  about her grandmother, about the cookbook, about the implications of discovering that magic was real. ""Will I see you again?"" The question escaped before she could reconsider it. Part of her couldn't believe she was essentially asking a demon for its phone number, but another part recognized that having a supernatural contact might be useful, especially if she planned to continue exploring her apparent family legacy of magical cooking.
+
+Bael's grin was the last thing to disappear, hovering in the air like the Cheshire Cat's smile before it too faded away. But its final words remained, echoing slightly in the now-empty kitchen. ""Check the recipe for Nana's Emergency Lasagna. Page 47."" The voice held a hint of mischief and promise. With those cryptic instructions, the demon vanished completely, leaving Rachel alone in her perfectly restored kitchen. The only evidence of the extraordinary events of the afternoon was the slight scent of sulfur and cinnamon that lingered in the air, and the cookbook that now felt heavy with potential in her hands.
+
+And then Rachel was alone in her kitchen, holding her grandmother's cookbook and wondering what other culinary adventures awaited her. The smell of the soup still hung in the air, along with the faintest trace of brimstone. Outside, she could hear Julian saying final goodbyes to his parents, their voices warm and pleasant. The evening had been saved, and in the process, Rachel had discovered an entirely new dimension to her family heritage. As she flipped through the cookbook, she saw it with new eyes  not just as a collection of recipes, but as a grimoire of sorts, filled with knowledge and power passed down through generations of women who knew more than they ever let on.
+
+She turned to page 47 and smiled. Nana's Emergency Lasagna was there, with the familiar list of ingredients and instructions. But now she could see the small symbols around the edges, the subtle patterns in the spacing, the words that seemed to mean one thing but might actually signify another. At the bottom of the page was a note in her grandmother's handwriting: ""For when you need more than just dinner  when you need a friend."" Rachel ran her finger over the words, feeling a connection to her grandmother that went beyond mere family ties. It was the connection of shared secrets, of hidden knowledge, of powers only beginning to be understood. She closed the book carefully, setting it aside for future exploration. Julian would be back inside any moment, and she wasn't quite ready to share this particular family tradition with him. Not yet. But someday, perhaps, when the time was right, she would invite him into the kitchen and together they would discover what happened when you followed Nana Jean's recipes exactly as written  supernatural consequences and all.",0.0192,0.1071,Y,3.5,3.8,3.7
+Creative Writing,1,gemini,chained,"Step 1: Create a story outline for the following prompt:
+Please write a story using the following writing prompt: The demon stands amid your destroyed kitchen screaming, ""How? How were you able to summon me?!"" You're standing in the corner flipping through your grandma's cookbook as fast as you can, screaming back, ""I don't know!! You were supposed to be chicken soup!""
+
+The title of this story should be: Nana Jeans Special Occasion Soup
+
+It should feature the following genres: Comedy, Fantasy
+Step 2: Expand each bullet point in the outline into a detailed paragraph to form the full story.","The kitchen looked like a culinary warzone. Flour dusted every surface, shattered pottery lay in jagged heaps, and a fine mist of...something viscous and green coated the walls. In the center of the chaos stood a being that could only be described as a demon, its form shifting and swirling with shadows, horns glinting menacingly in the dim light of the overturned kitchen lamp. It roared, the sound like grinding tectonic plates, ""How? HOW were you able to summon me?!""I cowered in the corner, clutching Nana Jean's ancient, food-stained cookbook like a lifeline. Its pages, brittle and yellowed, flipped wildly as my trembling hands tried to find some semblance of an explanation. ""I don't know!!"" I shrieked back, my voice barely a whimper above the demonic bellow. ""You were supposed to be chicken soup!""The demon's eyes, twin pools of molten fire, narrowed. ""Chicken soup? This this ritual of bay leaves, turmeric, and what is offensively labeled 'a pinch of the unusual'?! This was no mere soup recipe! This this was a summoning! A chaotic, untamed summoning of immense power!"" He gestured around the destroyed kitchen with a clawed hand, sending a cascade of spice jars crashing to the floor.I hugged the cookbook tighter. Nana Jean's Special Occasion Soup. It was supposed to be a cure-all, a culinary hug in a bowl. She always made it whenever anyone in the family was sick, heartbroken, or just plain Tuesday. There was a note scribbled in the margins: ""For best results, use chicken broth blessed by moonlight and a sprig of vervain, if available."" Id thought she was just being eccentric.""But but the recipe!"" I stammered, finally finding the right page. The ink seemed to writhe on the page, the cheerful hand-drawn illustration of a steaming bowl now looking vaguely sinister. ""It said it said 'simmer gently until the essence of comfort is released'!""The demon stalked closer, his shadow looming over me. ""Essence of comfort?! I am Vorlag, Destroyer of Worlds! My essence is is eternal torment and slightly burnt brimstone! There is nothing comforting about me!"" He paused, sniffing the air with a grotesque, slit-like nose. ""Though there is a faint smell of poultry.""My eyes darted around the disaster zone. A half-plucked chicken lay forlornly on the counter, feathers stuck to the sticky green substance. The air thrummed with residual energy, a bizarre mix of savory herbs and otherworldly power.""Nana Jean always said the key was in the broth,"" I mumbled, more to myself than the demon. ""She used to chant over it, something about about binding the flavors""Vorlag's expression shifted, a flicker of something akin to confusion? ""Binding? You you chanted? Over a broth?""I nodded, my cheeks burning. ""It was more of a hum, really. And there were hand gestures. She said it helped the flavors meld."" I demonstrated, making awkward swirling motions with my hands.The demon stared at me, then at the cookbook, then back at me. ""This is unprecedented. A mortal, accidentally summoning a being of my stature with a soup recipe. The infernal archives will be in an uproar!"" He ran a clawed hand over his horned head, as if trying to soothe a headache. ""Tell me, human. What were the exact words of this 'chant'?""I swallowed, my mind racing. If I could just un-summon him? Send him back to wherever he came from? I flipped through the cookbook again, desperately searching for the passage. And there it was, in faded blue ink:""Simmer down, simmer down, flavors so fine,Bind yourselves together, in this pot of mine.Chicken and carrot, celery too,Grant us comfort, in all that we do.""I recited the words, my voice trembling. The kitchen pulsed with a renewed surge of energy. Vorlag's form flickered, his edges blurring.""Wait, what's happening?!"" he roared, his voice losing some of its demonic resonance. ""I feel I feel a strange sense of well-being?""The green substance on the walls began to recede, swirling back into the overturned pot on the stove. The shattered pottery reassembled itself, the flour motes coalescing back into their bags. The kitchen slowly began to un-destroy itself.With a final, disoriented groan, Vorlag vanished. In his place, hovering above the stove, was a large, steaming bowl of chicken soup. It smelled incredible.I stared at the bowl, then at the cookbook, then back at the bowl. ""Nana Jean,"" I whispered. ""What kind of soup was that?""",0.0585,0.1954,Y,4.0,4.1,4.0
+Creative Writing,2,claude,single,"Please write a story using the following writing prompt: You have the power to manipulate time. But you discover the more you use this power the younger you become.
+
+The title of this story should be: The Rewind
+
+It should feature the following genres: Fantasy, Drama, Science Fiction, Romance
+","# The Rewind
+
+The first time it happened was an accident. 
+
+Marcus Shaw stood frozen in horror as his girlfriend's champagne flute slipped from her fingers, tumbling through the air in agonizing slow motion. He reached out instinctively, desperately wishing he could stop it before it shattered against the restaurant's marble floorand suddenly, everything froze. 
+
+The glass hung suspended between Emma's hand and the floor. The ambient chatter, the clinking of silverware, the soft piano musicall of it ceased. In the perfect stillness, Marcus stared at the floating champagne, golden liquid suspended in a perfect arc above the flute. Without thinking, he reached forward, plucked the glass from its suspended animation, and placed it safely back on the table.
+
+Then, like a rubber band snapping, time resumed. 
+
+Emma blinked in confusion. ""That's weird. I could've sworn I just dropped my glass.""
+
+Marcus laughed nervously. ""Must be the champagne playing tricks on you."" But as he raised his own glass to his lips, he caught his reflection in the restaurant's mirrored walland nearly dropped his drink too. 
+
+The gray hair at his temples, which had been spreading steadily since his thirty-fifth birthday three years ago, had vanished.
+
+---
+
+""So you're saying you can... stop time?"" Dr. Abernathy leaned forward in his chair, fingers steepled beneath his chin.
+
+Marcus shifted uncomfortably. ""Not just stop it. I can rewind ita few seconds, maybe a minute if I concentrate.""
+
+""And you're here because...""
+
+""Because I'm getting younger,"" Marcus said flatly. ""Every time I use this... ability, I de-age. Sometimes it's barely noticeablea wrinkle disappearing, a gray hair turning brown again. But last week, I reversed a car accident that would have killed a child, and afterward, my chronic knee pain from college basketball was gone. Completely healed.""
+
+""That's... unprecedented."" Dr. Abernathy removed his glasses, polishing them thoughtfully. ""And you found me because of my research into temporal physics?""
+
+Marcus nodded. ""Your paper on theoretical time manipulation suggested it might be possible. I thought you might have some answers.""
+
+The physicist sighed. ""Mr. Shaw, that paper was purely theoretical. I never imagined someone would actually manifest these abilities."" He paused. ""May I ask how old you actually are?""
+
+""Thirty-eight. Though physically, I'd guess I'm closer to thirty-four now."" 
+
+""And how often are you using this power?""
+
+Marcus shrugged. ""It's becoming harder not to use it. Once you know you can prevent accidents, save lives, undo mistakes... how do you just stand by and let bad things happen?""
+
+Dr. Abernathy's expression darkened. ""The implications are staggering. If the regression is proportional to the magnitude of the time manipulation... Mr. Shaw, you need to be extremely careful.""
+
+""I know,"" Marcus replied quietly. ""That's why I'm here.""
+
+---
+
+Six months later, Marcus stood before his bathroom mirror, examining his reflection with a mixture of wonder and trepidation. Dr. Abernathy's warning echoed in his mind: *Use this power sparingly. We don't know what happens if you regress beyond your birth.*
+
+But how could he ignore a gift that allowed him to save lives?
+
+The previous day, he'd prevented a five-car pileup on the freeway by rewinding three full minutes of time. The effort had left him dizzy and disorientedand apparently, five years younger. His face now looked like it belonged to a man in his late twenties, with no sign of the stress lines that had once creased his forehead.
+
+His phone buzzed: Emma.
+
+""Hey, everything okay? You rushed out of dinner last night without explanation.""
+
+Marcus sighed. Their relationship had grown increasingly strained as he struggled to explain his gradually changing appearance. He'd told her he was trying a new skincare regimen, but she wasn't stupid.
+
+""Sorry,"" he texted back. ""Work emergency. Make it up to you tonight?""
+
+Three dots appeared, disappeared, then reappeared. ""Fine. But we need to talk. About whatever's going on with you.""
+
+Marcus set the phone down, heart heavy. He loved Emma more than anythingthey'd been together for five years, and he'd been planning to propose before his life took this bizarre turn. But how could he explain that he was becoming Benjamin Button without sounding insane?
+
+The phone rang againthis time, Dr. Abernathy.
+
+""I've been analyzing your blood samples,"" the physicist said without preamble. ""Your telomeresthe protective caps on your chromosomes that shorten as we agethey're lengthening. Technically, you're not just looking younger; you're actually becoming younger at a cellular level.""
+
+""Is that... bad?""
+
+""It's unprecedented. But there's something else..."" Abernathy hesitated. ""The energy signature in your cells matches theoretical patterns for temporal displacement. Essentially, every time you manipulate time, you're trading your own life force. Your future for someone else's.""
+
+Marcus sat heavily on the edge of the bathtub. ""So I'm using up my future to change the present?""
+
+""Precisely. And at the rate you're going, you could regress to childhood within a year.""
+
+---
+
+Despite the warning, Marcus couldn't stop. Knowing he could prevent suffering made it impossible to stand idle. A mother who would have been hit by a texting driver. An elderly man about to fall down subway stairs. A convenience store robbery that would have ended in bloodshed.
+
+Every intervention aged him backward, sometimes days, sometimes years. By the time autumn leaves began to fall, his driver's license showed a thirty-eight-year-old man, but his reflection belonged to someone barely old enough to drink.
+
+Emma finally confronted him on a rainy October evening.
+
+""Enough lies, Marcus. I deserve the truth.""
+
+They sat across from each other at their kitchen table, steam rising from untouched mugs of tea between them.
+
+""You won't believe me,"" he said quietly.
+
+""Try me."" Her eyes, the deep brown he'd fallen in love with at first sight, were steady and determined.
+
+So he told her everythingthe first incident at the restaurant, the gradually accelerating changes, Dr. Abernathy's research. As he spoke, her expression shifted from skepticism to disbelief to something like horror.
+
+""Show me,"" she finally said.
+
+""Emma, I can't just""
+
+""If what you're saying is true, prove it.""
+
+Marcus hesitated, then nodded toward her mug. ""Pick it up and drop it.""
+
+Skeptically, Emma lifted the mug and let it fall. As it tumbled, Marcus concentrated, feeling the now-familiar sensation of reality bending around him. Time stopped, then reversed. The mug flew upward, landing neatly in Emma's surprised hand.
+
+""Oh my God,"" she whispered, her face pale. ""Marcus...""
+
+He felt the change immediatelya slight softening around his jawline, the disappearance of a small scar on his knuckle from a cooking accident last year.
+
+""Now do you believe me?""
+
+She reached across the table, taking his hand. ""What happens if you keep going?""
+
+""I don't know. Maybe I'll disappear completely. Maybe I'll revert to a baby."" He attempted a smile. ""Doubt you signed up to raise your boyfriend.""
+
+Emma didn't smile back. ""This isn't funny. We need to find a way to stop it.""
+
+""I've tried,"" Marcus said. ""But once you know you can prevent suffering... how do you just watch it happen?""
+
+""Even if it costs you everything?"" Tears welled in her eyes. ""Even if it costs us everything?""
+
+He had no answer for that.
+
+---
+
+Winter arrived, and with it, a new development. Marcus now appeared to be in his late teensyoung enough that he'd had to quit his job to avoid uncomfortable questions. Emma had moved her freelance design work home to help care for him, but the s",0.0074,0.124,Y,4.0,4.0,3.8
+Creative Writing,2,gemini,single,"Please write a story using the following writing prompt: You have the power to manipulate time. But you discover the more you use this power the younger you become.
+
+The title of this story should be: The Rewind
+
+It should feature the following genres: Fantasy, Drama, Science Fiction, Romance
+","The old leather-bound journal lay on Elara's desk, its pages filled with her grandmother's elegant, looping script. Elara had always been drawn to the fantastical tales within, but one entry, dated decades ago, stood out. It spoke of a hidden power, a way to manipulate time itself. Elara, a brilliant but disillusioned physicist, initially dismissed it as folklore. Yet, recent setbacks in her research, the loss of funding, and the crushing weight of her unfulfilled potential had left her desperate. Driven by a mix of scientific curiosity and a yearning for a different life, she followed the journal's cryptic instructions, a complex sequence of calculations, astrological alignments, and a device her grandmother called a ""Chronarium,"" a swirling vortex of energy contained within a crystal orb.The first activation was subtle. A moment stretched, a spilled cup of tea righting itself before shattering. Elara gasped, her heart pounding. It worked. Emboldened, she attempted larger manipulations, rewinding hours, then days. She corrected mistakes in her experiments, secured funding with newfound ""foresight,"" and even rekindled a romance with Liam, a charming historian she'd met years prior but had let slip away due to her career obsession. With each successful manipulation, her confidence soared, but a strange side effect emerged. Her reflection seemed younger. The lines around her eyes softened, her hair regained its vibrant auburn hue, the ache in her joints faded.At first, it was exhilarating. Elara felt like she was reclaiming her lost youth, her vitality. Liam was captivated by her youthful energy, unaware of the magic at play. Her career flourished, her research leaping forward with each temporal correction. She was rewriting her history, bending time to her will, and becoming younger with every twist. Yet, the initial euphoria began to wane, replaced by a growing unease. The world around her seemed to shift subtly. Liam, while still drawn to her, spoke of her with a strange mix of adoration and concern, as if she were a delicate, precious thing, not the woman he'd fallen for. Her colleagues, once peers, now treated her with a patronizing respect, their conversations peppered with ""you wouldn't understand, you're too young.""The journal held a warning, a single, chilling sentence: ""Time's price is not measured in moments, but in being."" Elara, now appearing in her early twenties, dismissed it, drunk on her power. She used the Chronarium again, attempting a larger rewind, to correct a fundamental error in her past that had led to her father's early death. The backlash was immense. Reality seemed to tear at the edges, and when the vortex subsided, she was sixteen again, a high school student with a lifetime of memories she couldn't reconcile with her present. Liam was a distant figure, a college graduate she vaguely knew. Her research was decades in the future.Desperate, Elara tried to reverse the process, to age herself back, but the Chronarium, it seemed, only moved in one direction. She was trapped, a teenager in a world that was both familiar and utterly alien. The drama of adolescence, the sting of first heartbreaks, the pressure of expectations  all felt amplified by the weight of her lost future. She found herself drawn to a young history student who reminded her of Liam, a boy with the same kind eyes and gentle soul. But could she build a genuine connection with him, or would she always be haunted by the ghost of the man she'd loved and lost to her own ambition? Elara was left with a cruel choice: live a life not her own, or find a way to destroy the Chronarium, sacrificing her power to reclaim a future that might never be the same.",0.007,0.1515,Y,4.4,4.2,4.0
+Creative Writing,2,claude,chained,"Step 1: Create a story outline for the following prompt:
+Please write a story using the following writing prompt: You have the power to manipulate time. But you discover the more you use this power the younger you become.
+
+The title of this story should be: The Rewind
+
+It should feature the following genres: Fantasy, Drama, Science Fiction, Romance
+Step 2: Expand each bullet point in the outline into a detailed paragraph to form the full story.
+","Here are the key plot points from ""The Rewind"" expanded into detailed paragraphs:
+
+**Discovery of Power:** Marcus Shaw discovers his time manipulation ability by accident during a dinner date with his girlfriend Emma. When she accidentally drops her champagne glass, his desperate wish to prevent it from breaking somehow freezes time completely. In that frozen moment, Marcus reaches out and places the glass safely back on the table before time resumes its normal flow. Emma is confused but dismisses the incident. However, when Marcus catches his reflection, he notices the gray hair at his temples has disappearedthe first sign that using this power has somehow reversed his aging process.
+
+**Seeking Answers:** Concerned about his de-aging, Marcus consults Dr. Abernathy, a physicist specializing in temporal physics. He explains how each use of his time manipulation power makes him physically youngersometimes subtly, sometimes dramatically. Dr. Abernathy is astonished that the theories in his research papers have manifested in reality. After examining Marcus, he determines that the regression is proportional to the magnitude of time manipulation and warns Marcus to use his power sparingly, as they don't know what happens if he regresses beyond birth.
+
+**Moral Dilemma:** Despite the warnings, Marcus finds it increasingly difficult not to use his power. How can he stand by when he has the ability to prevent accidents, save lives, and undo mistakes? After rewinding three minutes to prevent a multi-car pileup, Marcus loses approximately five years of physical age, appearing now like a man in his late twenties. The strain of his changing appearance begins affecting his relationship with Emma, who notices something is clearly wrong but doesn't understand what's happening.
+
+**Scientific Understanding:** Dr. Abernathy's research reveals that Marcus isn't just looking youngerhe's actually becoming younger at a cellular level. His telomeres, which normally shorten with age, are lengthening. The physicist explains that Marcus is essentially trading his own life force to change time, using up his future to alter the present. At his current rate of time manipulation, Marcus could regress to childhood within a year, presenting him with an impossible choice between saving others and saving himself.
+
+**Relationship Strain:** As Marcus continues using his power to help others, his appearance changes more dramatically. By autumn, he looks barely old enough to drink despite being thirty-eight. Emma finally confronts him, demanding the truth. When Marcus explains everything and demonstrates his ability by reversing a dropped mug, Emma is horrified to witness both his power and the immediate aging backward it causes. Their relationship transforms as Marcus's physical age continues to decrease, creating an undefined dynamic that is neither fully romantic nor simply friendship.
+
+**The Solution and Risk:** Dr. Abernathy identifies a potential solution involving a natural temporal anomalya rare moment when time streams are thinner. During this event, Marcus might be able to push time forward instead of pulling it backward, potentially stabilizing his condition. However, the process would require enormous energy and carry significant risks. By this point, Marcus resembles a fourteen-year-old boy, with only about two months before he would revert completely to infancy if nothing is done.
+
+**The Attempt:** On the night of the temporal anomaly, Marcus, Emma, and Dr. Abernathy gather at an abandoned airfield. As the anomaly peaks, Marcus attempts to push time forward rather than his usual rewind, but initially struggles with the unfamiliar direction. When Abernathy suggests focusing on something that anchors him to his future, Marcus concentrates on his love for Emma and their potential future together. This focus allows him to grasp the threads of his timeline and pull himself forward, though the process causes excruciating pain before he loses consciousness.
+
+**The Outcome:** Marcus awakens in a hospital two weeks later to discover the procedure workedbut with complications. Instead of returning to his original age, he has accelerated to approximately fifty years old. Dr. Abernathy explains that the acceleration didn't stop where it should have; instead, it stabilized at the precise point where the temporal energy balanced, essentially aging him forward to compensate for all the time he had previously reversed.
+
+**Love Transcends:** Despite Marcus's dramatic aging, Emma's love remains unchanged. When they're alone in the hospital room, she surprises him by proposing marriage using the ring she found among his belongingsthe one he had purchased nearly a year ago. She affirms that their relationship has already proven time doesn't matter to them, joking that while most couples grow old together, they're simply doing it backwards. Marcus accepts her proposal, finding hope in their future together despite the uncertainties of his condition.",0.0039,0.1154,Y,4.1,4.0,4.0
+Creative Writing,2,gemini,chained,"Step 1: Create a story outline for the following prompt:
+Please write a story using the following writing prompt: You have the power to manipulate time. But you discover the more you use this power the younger you become.
+
+The title of this story should be: The Rewind
+
+It should feature the following genres: Fantasy, Drama, Science Fiction, Romance
+Step 2: Expand each bullet point in the outline into a detailed paragraph to form the full story.
+","I. Act I: Discovery and TemptationA. Introduction:Elara, a brilliant but disillusioned physicist, navigated her late thirties with a weariness that belied her years. Her once-promising career had stalled, trapped in a cycle of grant rejections and unfulfilled experiments. The cutting-edge theories she'd once championed now felt like echoes in the vast chamber of scientific progress. A sense of lost potential gnawed at her, a constant reminder of the vibrant future she had envisioned for herself. It was during a particularly bleak evening, while sorting through her recently deceased grandmother's belongings, that she stumbled upon a hidden compartment in an antique desk. Inside, she found a leather-bound journal filled with elegant, looping script, detailing not scientific equations, but fantastical tales and cryptic rituals. Among them was the description of a method to manipulate time and a device called the Chronarium. The journal hinted at a great cost, a foreboding warning about the delicate and unforgiving nature of time itself, a warning Elara initially dismissed as the fanciful musings of an imaginative mind.B. The First Experiment:Driven by a potent cocktail of desperation and scientific curiosity, Elara found herself drawn into the journal's arcane instructions. The idea of rewriting her past, of correcting the missteps that had led to her current stagnation, was a temptation too alluring to ignore. She meticulously gathered the unusual materials listed, her physicist's mind grappling with concepts that blurred the lines between science and the mystical. Finally, after weeks of tireless work, she recreated the Chronarium  a swirling vortex of energy contained within a complex lattice of crystals and rare metals. With trepidation, she initiated the time manipulation ritual, the room filling with an otherworldly hum and a cascade of shimmering light. The first experiment was subtle, almost imperceptible. A glass of spilled tea on her worktable reversed its fall, the liquid flowing back into the cup as if gravity itself had momentarily forgotten its purpose. Elara gasped, her heart pounding in her chest. It had worked. But as the energy subsided, she caught a glimpse of her reflection in a nearby mirror. The fine lines around her eyes seemed less pronounced.C. Embracing the Power:Emboldened by her initial success, Elara began to use the Chronarium with increasing frequency, each manipulation bolder than the last. She rewound hours to correct minor errors in her experiments, leading to breakthroughs that had previously eluded her. She manipulated days to secure crucial funding, her newfound ""foresight"" allowing her to navigate the complex world of academic politics with ease. And then there was Liam. A charming historian she had met years ago at a conference, their connection immediate and profound. Yet, Elara's relentless pursuit of her career had led her to prioritize her work, letting their relationship slip away. Now, with the Chronarium, she manipulated events, ensuring they met again, orchestrating a series of ""chance"" encounters that rekindled their spark. With each temporal adjustment, the de-aging became more pronounced. Elara's skin regained its youthful elasticity, her hair returned to its vibrant auburn hue, and the persistent ache in her joints vanished. She reveled in her renewed vitality, the world opening up to her in ways she had forgotten.II. Act II: The Price of TimeA. The Subtleties of Change:As Elara continued to bend time to her will, the consequences of her actions began to manifest in increasingly unsettling ways. It wasn't just her physical appearance that was changing; people's perceptions of her were shifting as well. Her relationship with Liam, once a connection of equals, became increasingly complicated. He was captivated by her youthful energy, yet there was a growing distance, a subtle shift in his gaze that hinted at a strange mix of adoration and concern, as if she were a delicate, precious thing, not the woman he had fallen for. Her colleagues, initially impressed by her sudden success, began to treat her with a patronizing respect. Conversations that were once intellectual debates now carried an undertone of condescension, peppered with phrases like, ""You wouldn't understand, you're too young."" Elara found herself increasingly isolated, surrounded by people who saw a younger version of her, not the accomplished scientist she knew herself to be.B. The Journal's Warning:Haunted by these subtle yet disturbing changes, Elara delved deeper into her grandmother's journal, seeking answers in its yellowed pages. She uncovered more about the Chronarium's origins, a history intertwined with ancient myths and forgotten sciences. The journal spoke of the true nature of the side effect, not as a simple reversal of aging, but as a fundamental alteration of one's place in the timeline. The warning about ""Time's price"" became more ominous, suggesting a gradual erosion of one's self, a loss of being as the past reshaped the present. But Elara, blinded by her desire to correct a major tragedy in her past  the untimely death of her father in a car accident she believed she could have prevented  dismissed the warnings as superstition. The allure of fixing this deep-seated wound was too strong, the potential reward outweighing the vague and unsettling risks.C. The Major Rewind:Driven by a desperate hope, Elara prepared for the most ambitious temporal manipulation yet: to rewind time far enough to prevent her father's death. She poured all her knowledge, all her energy, into the Chronarium, pushing the device to its absolute limits. The room crackled with raw power, the vortex of energy expanding, threatening to consume everything in its path. Reality itself seemed to tear at the edges, the fabric of time groaning under the strain. And then, a blinding flash. When Elara's vision cleared, the world was utterly changed. The backlash from the immense temporal shift had thrown her further back than she intended, the Chronarium's power overwhelming her control.III. Act III: The RewindA. The New Reality:Elara found herself significantly younger, a teenager again, a high school student in a world that had moved on without her. Decades of her life, her career, her relationships, were gone, replaced by the awkwardness of adolescence and the bewildering landscape of a future she was supposed to have shaped. Her past relationship with Liam was altered, existing only as a faint, bittersweet memory, a ghost of a love that might have been. Her groundbreaking research, her hard-earned reputation, were now distant possibilities, years, perhaps decades, away. She was a stranger in a familiar land, a young girl with the memories of a woman she no longer was.B. Acceptance and Loss:Elara struggled to reconcile her vivid memories and profound experiences with the jarring reality of her teenage existence. The world felt both familiar and alien, filled with faces she knew but lives she no longer shared. She encountered a younger version of Liam, a high school student with the same kind eyes and gentle soul that had drawn her to him before. A new connection sparked between them, tentative and fragile, yet filled with a poignant echo of what she had lost. But the joy of this budding relationship was constantly shadowed by the agonizing awareness of her past with him, the depth of their bond, the shared history that was now irretrievably gone. Elara was forced to confront the devastating consequences of her actions, the true cost of manipulating time.C. The Choice:Faced with the irreversible nature of her rewind, Elara had to make a profound choice. She could attempt to navigate this altered reality, to build a new life as a teenager, forever carrying the weight of her lost past. Or she could try to destroy the Chronarium, to sever her connection to its power, and perhaps, in doing so, allow the timeline to heal, to restore some semblance of the future she had known. The ending was bittersweet. Elara, with a heavy heart, chose the latter. She journeyed to the place where she had first activated the Chronarium, the weight of her lost years pressing down on her with every step. With a final, tearful farewell to the memory of Liam, to the life she had so desperately tried to improve, she unleashed a surge of energy into the device, shattering it into a thousand pieces. The act was a sacrifice, a painful acceptance of the immutable flow of time. In the aftermath, the world shifted, not back to what it was, but to something different. Elara never regained her lost years, her lost love, but she found a measure of peace in letting go, in embracing the uncertain future that lay ahead.",0.0073,0.1026,Y,4.3,4.2,4.7
+Creative Writing,3,claude,single,"Write a short story based on the following prompt:
+Please write a story using the following writing prompt: Humans aren't actually space Orcs, they're space Orcas. For most, they're a social, playful species. For their prey, however, the evil shit Humans can conjure up to hurt and destroy them is terrifying.
+
+The title of this story should be: Hunters of the Stars
+
+It should feature the following genres: Science Fiction, Action, Thriller","# Hunters of the Stars
+
+The Varidian cargo freighter drifted silently through the asteroid belt, its captain believing the dense field of space rocks would mask their signature from pursuers. The smuggler vessel had raided three Galactic Alliance aid shipments bound for the drought-stricken colonies on Altaris IV, condemning thousands to thirst and starvation.
+
+""They've stopped moving, Commander Reyes,"" reported Lieutenant Chen, her eyes fixed on the tactical display. ""They're powering down non-essential systems. They think they've lost us.""
+
+Commander Elena Reyes smiled, the expression never reaching her eyes. She reached up to tighten her dark ponytail, a ritual her crew recognized as preparation for action. The bridge of the GAS Orca fell silent, twenty crew members watching their commander with an almost reverent attention.
+
+""Tactical assessment?"" she asked quietly.
+
+""Varidian vessel carries seventeen crew, moderate armaments, and stolen relief supplies,"" Chen answered. ""They've positioned themselves within the asteroid cluster, making direct approach risky.""
+
+Reyes nodded, then opened the comm channel to address her crew. ""This is your commander speaking. We've located the raiders who stole water and food from the children of Altaris. You all know what's at stake. Prepare for hunt formation.""
+
+Throughout the ship, fifty human crew members responded with sharp efficiency. The Orca was a specialized Alliance pursuit vessel, smaller than a destroyer but larger than a patrol craft. Its sleek black hull, accented with white markings, was designed for both stealth and intimidationmuch like the ancient Earth predator it was named after.
+
+---
+
+Aboard the Varidian freighter Dagger's Edge, Captain Vrull relaxed in his command chair. ""Any sign of pursuit?"" he asked his navigator.
+
+""None, Captain. The Alliance vessel lost our trail when we entered the asteroid field. Their large ships can't maneuver safely in here.""
+
+Vrull chittered in satisfaction, mandibles clicking. ""Excellent. We'll wait twelve hours, then proceed to the rendezvous point. The water alone will fetch five million credits.""
+
+His security officer suddenly straightened at his console. ""Captain, I'm detecting unusual movement in the asteroid field. Several rocks seem to be... changing trajectory.""
+
+""Natural collisions,"" Vrull dismissed.
+
+""No, sir. The patterns are too... coordinated.""
+
+Before Vrull could respond, his communications officer interrupted. ""Captain, we're receiving a transmission on all frequencies.""
+
+""Put it through.""
+
+The ship's speakers crackled to life with a sound that made every Varidian on the bridge freeze in primal terror. It was a haunting, melodic call that seemed to penetrate their very exoskeletonsthe hunting song of humans.
+
+""They found us,"" whispered the navigator.
+
+---
+
+On the Orca, Commander Reyes terminated the transmissiona recording of ancient orca vocalizations from Earth's oceans. Psychological warfare was part of the hunt tradition.
+
+""All pods in position?"" she asked.
+
+""Affirmative. Pods One through Four have attached thrusters to the targeted asteroids. Ready on your command.""
+
+Reyes leaned forward. ""Begin the hunt.""
+
+Outside, the Alliance vessel remained hidden behind a large asteroid, but four smaller craft""pods"" of five crew members eachhad deployed. These specialized teams had attached propulsion devices to selected asteroids, effectively weaponizing the natural environment.
+
+""Detonate thrusters in sequence,"" ordered Reyes. ""Let's create some chaos.""
+
+The carefully placed propulsion devices activated in precise order, sending massive asteroids tumbling toward the Varidian ship from multiple angles. Not enough to destroy itjust enough to force it to move in the direction the Orca wanted.
+
+---
+
+""Evasive maneuvers!"" shouted Vrull as his ship rocked from the debris impacts. ""How are they doing this?""
+
+His crew worked frantically as more asteroids seemed to target them specifically, herding them through the field like prey being driven into a trap.
+
+""We need to make a run for open space,"" his pilot urged.
+
+""No!"" countered the security officer. ""That's what they want! Humans hunt in coordinated groups. They're forcing us into an ambush position.""
+
+Another impact rocked the ship. ""We have no choice!"" the pilot insisted. ""We can't stay here!""
+
+Vrull made his decision. ""Set course through that opening. Maximum thrust!""
+
+The Dagger's Edge surged forward, escaping the immediate asteroid threatsdirectly into a clearing within the field.
+
+---
+
+""They've taken the bait,"" reported Chen. ""Target has entered the containment zone.""
+
+Reyes nodded with satisfaction. ""Deploy the net.""
+
+From the Orca and its pods came a barrage of small devices that quickly surrounded the clearing. Each activated, generating an electromagnetic field that, when combined, created a web of disruption that would disable the Varidian ship's engines and weapons.
+
+""Net is active,"" confirmed Chen. ""Target is immobilized.""
+
+Reyes stood. ""Pods One and Two, prepare for boarding. Pods Three and Four, maintain perimeter. This is a recovery operationwe want the supplies intact.""
+
+She paused, then added, ""But the raiders have condemned innocents to death for profit. Justice will be served.""
+
+---
+
+Vrull watched in horror as his ship's systems shut down one by one.
+
+""They've trapped us in some kind of electromagnetic net,"" his engineer reported frantically. ""Weapons and engines are non-functional.""
+
+On the external cameras, Vrull could see the human boarding pods approaching. Stories of human boarding parties circulated throughout the galaxytheir relentless efficiency, their coordinated movements, their terrifying capacity for both mercy and brutality depending on their judgment of your crimes.
+
+""Seal the bulkheads!"" Vrull ordered. ""Prepare to repel boarders!""
+
+But his security officer removed his weapon and placed it on the console. ""Captain, I respectfully decline. My clutch-mother told me stories of humans when I was a hatchling. Do you know what they did on their homeworld?""
+
+When Vrull didn't answer, he continued: ""Their ancestors hunted the largest creatures in their oceansmassive beasts three times the size of our shipwith nothing but hand-thrown spears and small wooden boats. They didn't hunt for territory or resourcesthey hunted because they could. Because they wanted to prove they could kill the mightiest beings in their world.""
+
+The bridge fell silent as the security officer's words sank in.
+
+""But that's not the worst of it,"" he continued. ""Sometimes they didn't kill their prey. Sometimes they just played with it. They would chase the great beasts until they were exhausted, then release them... only to hunt them again another day. They called it 'sport.'""
+
+Outside, the boarding pods attached to the hull with metallic thuds that reverberated throughout the ship.
+
+""Captain,"" pleaded the security officer, ""we stole water from human colonies. From their cubs. Surrender now, or they won't just defeat usthey'll make an example of us.""
+
+---
+
+When Commander Reyes and her boarding team breached the Varidian vessel, they were met not with resistance but with surrender. Captain Vrull himself waited at the airlock, mandibles lowered in submission.
+
+""The stolen supplies are untouched,"" he stated immediately. ""We surrender unconditionally and place ourselves at the mercy of the Alliance.""
+
+Reyes studied the alien captain, her expression unreadable behind her tactical helmet. The rest of her boarding team spread through the ship with practiced precision, securing each section.
+
+""Why the change of heart, Captain?"" she asked.
+
+Vrull's compound eyes reflected the harsh lights of the human combat suits. ""Because I remembered what you are.""
+
+""And what are we?""
+
+""You are the species that hunts for reasons beyond survival. You are the apex predators who play with your food. You are the creatures who developed art and music and philosophy... and still retained the instinct to track your prey across endless oceansor endless spaceout of sheer principle.""
+
+Reyes removed her helmet, revealing the smile that still didn't reach her eyes. ""The supplies will be returned to Altaris IV. You and your crew will face Alliance justice.""
+
+She turned to leave, then paused. ""You're right to fear us, Captain. Humans can be gentle, social creatures who create wonders and nurture life across the galaxy. But when we hunt..."" She let the statement hang unfinished in the recycled air of the captured vessel.
+
+Later, as the Orca secured the Varidian ship for towing, Lieutenant Chen approached her commander on the observation deck. Reyes stood watching the stars, humming an ancient melody.
+
+""The prisoners are secured, Commander. The supplies will reach Altaris within forty-eight hours.""
+
+""Good work, Lieutenant.""
+
+""Permission to speak freely?"" When Reyes nodded, Chen continued: ""The Varidians surrendered without a fight. Their captain seemed... terrified of us specifically.""
+
+Reyes smiled, this time genuinely. ""Our reputation precedes us. The galaxy knows that humans can be the most compassionate species in the Alliancecreating art, healing the sick, terraforming dead worlds into gardens. But they also know what we do to those who threaten our pods.""
+
+She turned her gaze back to the stars. ""It's good to be feared by those who would prey on the weak. On Earth, orcas were known as the wolves of the seaapex predators who hunted in perfect coordination. Out here, we're the wolves of the stars.""
+
+""And the hunt continues,"" Chen said softly.
+
+""Always, Lieutenant. For justice, for protection... and yes, sometimes, for the thrill of it. It's in our nature.""
+
+Across the vastness of space, the Orca continued its patrol, its human crew both protectors and predators, carrying the ancient hunting instincts of Earth into the stars.",0.0463,0.1067,Y,4.3,4.2,4.8
+Creative Writing,3,gemini,single,"Write a short story based on the following prompt:
+Please write a story using the following writing prompt: Humans aren't actually space Orcs, they're space Orcas. For most, they're a social, playful species. For their prey, however, the evil shit Humans can conjure up to hurt and destroy them is terrifying.
+
+The title of this story should be: Hunters of the Stars
+
+It should feature the following genres: Science Fiction, Action, Thriller","Hunters of the StarsThe Xylar fleet hung in the inky blackness, a silent predator waiting for the signal. They had tracked the human vessel, Odyssey, for three cycles, their sensors registering the strange energy signatures emanating from the ship. Xylar Captain Theron, his multi-faceted eyes gleaming with anticipation, addressed his crew. ""Humans,"" he hissed, the word a guttural rasp in the Xylar language. ""For eons, we believed them to be simple, social creatures. Playful, even. Like the Gel'nari of the Azure Sea. We were wrong.""Theron gestured to the holographic display, showcasing intercepted transmissions. The humans, their voices translated into crisp, clear Galactic Standard, were laughing, sharing stories, expressing joy. Then, the feed shifted. A different voice, colder than the vacuum of space, spoke of tactics, of strategies, of weapons that violated the Treaty of Xantus. Weapons of terrifying potential.""They are not Gel'nari,"" Theron said, his voice dropping to a dangerous whisper. ""They are Orcas. Apex predators of the void. They sing songs of camaraderie, but they also sing dirges for their prey. They are capable of unimaginable cruelty.""A shiver ran through the Xylar crew. They had heard the legends, of course. Tales whispered in hushed tones in the spaceports of a species that could smile and commit genocide in the same breath. Humans.The comm crackled to life. It was the lead scout ship. ""Captain, the Odyssey is changing course. It's heading towards the colony world of Cygnus VII.""Theron's eyes widened. Cygnus VII. A peaceful, agrarian world. Defenseless. ""They hunt,"" he breathed. ""All ships, prepare for attack. We will not allow them to reach the prey.""The Xylar fleet surged forward, their sleek, bio-engineered hulls cutting through the void. They were fast, agile, but the Odyssey was faster. It danced among the stars, a predator toying with its prey.The battle was swift, brutal. The humans fought with a ferocity that belied their cheerful transmissions. Their weapons tore through Xylar armor like it was tissue paper. Missiles that bent space and time, energy beams that disintegrated matter, and something something worse. The Xylar called it the ""Null-Wave."" A weapon that didn't destroy, but erased. Erased matter, erased energy, erased existence.Theron watched in horror as his ships, his crew, vanished. Not in explosions of fire and light, but in a silent, absolute cessation. One moment they were there, the next, they were not. As if they had never been.He locked eyes with the Odyssey through the viewport of his command ship. He could see them on the bridge, humans in their strange, form-fitting suits. They were smiling. Not the joyful smiles of friends, but the cold, predatory grins of killers.The Odyssey fired again. The Null-Wave washed over Theron's ship. He felt a coldness seep into his very being, a sense of unbeing. Then, there was nothing.Cygnus VII fell silent. The laughter of the humans echoed across the empty fields. The hunt was over.",0.0163,0.1419,Y,4.1,4.2,4.3
+Creative Writing,3,claude,chained,"Step 1: Create a story outline for the following prompt:
+Please write a story using the following writing prompt: Humans aren't actually space Orcs, they're space Orcas. For most, they're a social, playful species. For their prey, however, the evil shit Humans can conjure up to hurt and destroy them is terrifying.
+
+The title of this story should be: Hunters of the Stars
+
+It should feature the following genres: Science Fiction, Action, Thriller
+Step 2: Expand each bullet point in the outline into a detailed paragraph to form the full story.
+","**Title:** *Hunters of the Stars*
+
+**Genres:** Science Fiction, Action, Thriller
+
+---
+
+**Prologue: Whispers in the Void**
+
+In the outer reaches of the Orion Arm, among the scattered ruins of ancient empires, a xeno-historian from the aquatic Oonari race speaks to an unseen audience. His voice echoes through the water-filled chambers of his deep-space vessel. ""They call themselves Human,"" he says, his bioluminescent eyes dimming with dread. ""Curious. Joyful. Social. But beneath the songs and smiles... they are the apex predators of the void."" The tale that follows is not just a chronicle of war but a revelation of a species unlike any otherone that has mastered the art of peace, yet remembers the song of blood.
+
+---
+
+**Act One: A Delicate Balance**
+
+The *Odysseus*, a sleek human vessel bearing the crest of Earth's Space Coalition, glides into the neutral zone bordering the volatile Tarthi Dominion. Aboard is Captain Ren Kael, a man known more for his disarming charisma than his combat record. Alongside him is Lieutenant Sari Velar, a xenoanthropologist of the serene Aviari people, sent to study human interaction and diplomacy. The *Odysseus* has been dispatched not for war, but to mediate rising tensions between the humans and the Tarthi, an aggressive, honor-bound reptilian species. During the delegation meetings, humans joke, share meals, and exchange cultural trinkets. They are viewed by many alien species as spacefaring dolphinsclever, friendly, endlessly adaptable. But the Tarthi eye them with suspicion, seeing not prey, but something unreadable. Beneath their grins, something cold stirs.
+
+---
+
+**Act Two: The Teeth Beneath**
+
+Without warning, a human mining colony on the edge of contested space sends out a frantic, garbled distress signal. The message ends with screams and static. Surveillance footage shows Tarthi soldiers slaughtering civilians, including children. Captain Kael gathers his crew. His voice, once warm and joking, turns cold. He does not contact the Galactic Council. There will be no waiting. No permission. He authorizes ""Protocol Apex""a human contingency plan classified even among most allied species. Training routines double overnight. The ship enters stealth mode and alters its trajectory. Sari Velar documents the transformation. She watches the humans shift from social companions to something predatorysilent, focused, lethal. Gone are the jokes and songs. In their place: weapons maintenance, surgical planning, and emotionless preparation. Humanity is done talking.
+
+---
+
+**Act Three: The Orcas Unleashed**
+
+The Tarthi begin to lose entire fleets. Not in battlebut in silence. Ships vanish. Outposts are found abandoned, their garrisons dead with no signs of struggle. Then come the broadcasts: eerie, human music played moments before each strikeBeethoven, old Earth jazz, tribal war chants. The Tarthi soldiers whisper of ""the death melody"" and ""the black-eyed hunters."" The *Odysseus* uses AI infiltration to crash enemy navigation systems, weaponize oxygen supplies, and mimic Tarthi command signals to cause internal betrayal. Human marines strike with surgical precision, leaving no survivors. Sari Velar is both terrified and fascinated. She unearths records of Earths oceans and learns of the orca*Orcinus orca*a predator known for its social bonds, cunning, and terrifying efficiency. She begins to understand: humans are not like the brutal orcs of galactic mythology. They are like orcasintelligent, joyful, and terrifying when roused.
+
+---
+
+**Act Four: The Predators Echo**
+
+Outraged by the silence from both sides, the Galactic Council demands accountability. Captain Kael answers the summons. He presents unedited footage of the Tarthi massacre at the mining colony. He speaks calmly: ""We do not start wars. But we end them."" The Council is stunned. Their image of humans as charming, eccentric allies shatters. Yet none can argue with the results. The Tarthi Dominion, once fearsome, now sues for peace, its warriors haunted by whispers of invisible hunters. Velar publishes her report. Her conclusion: ""Humans are not space Orcs. They are Orcassocial predators who protect their pod with compassion, but who never forget how to kill when their young are threatened.""
+
+---
+
+**Epilogue: Songs Among the Stars**
+
+Peace is restored. The Tarthi disarm and sign the truce. The colony rebuilds. Children once again laugh under starlight. Aboard the *Odysseus*, Captain Kael stands alone on the observation deck, listening to an old Earth tune on a private channel. The stars swirl ahead as the ship turns toward its next assignment. Velar finishes her final transmission to the Aviari Council: ""They sing. They laugh. They dance. But in their hearts, they are hunters of the stars.""
+
+",0.0435,0.1472,Y,4.0,3.4,3.8
+Creative Writing,3,gemini,chained,"Step 1: Create a story outline for the following prompt:
+Please write a story using the following writing prompt: Humans aren't actually space Orcs, they're space Orcas. For most, they're a social, playful species. For their prey, however, the evil shit Humans can conjure up to hurt and destroy them is terrifying.
+
+The title of this story should be: Hunters of the Stars
+
+It should feature the following genres: Science Fiction, Action, Thriller
+Step 2: Expand each bullet point in the outline into a detailed paragraph to form the full story.
+","Hunters of the StarsThe Xylar fleet hung in the inky blackness, a silent predator waiting for the signal. They had tracked the human vessel, Odyssey, for three cycles, their sensors registering the strange energy signatures emanating from the ship. Xylar Captain Theron, his multi-faceted eyes gleaming with anticipation, addressed his crew. ""Humans,"" he hissed, the word a guttural rasp in the Xylar language. ""For eons, we believed them to be simple, social creatures. Playful, even. Like the Gel'nari of the Azure Sea. We were wrong."" The Xylar had always considered themselves the apex predators of the galaxy, their sleek, bio-engineered ships a testament to their superiority. They saw other species as either prey or benign distractions. The humans, with their constant chatter and seemingly boundless curiosity, had fallen into the latter category. But recent intelligence reports, filled with cryptic warnings and disturbing images, had painted a different picture. A picture that Theron, with every fiber of his being, now knew to be true.Theron gestured to the holographic display, showcasing intercepted transmissions. The humans, their voices translated into crisp, clear Galactic Standard, were laughing, sharing stories, expressing joy. Then, the feed shifted. A different voice, colder than the vacuum of space, spoke of tactics, of strategies, of weapons that violated the Treaty of Xantus. Weapons of terrifying potential. The jovial chatter was interspersed with discussions of particle cannons that could vaporize a planet, of missiles that folded space to appear instantaneously, and of biological agents that could strip a species of its very DNA. The Xylar crew exchanged uneasy glances. This was not the behavior of a simple, playful species. This was the sound of a predator preparing to hunt.""They are not Gel'nari,"" Theron said, his voice dropping to a dangerous whisper. ""They are Orcas. Apex predators of the void. They sing songs of camaraderie, but they also sing dirges for their prey. They are capable of unimaginable cruelty."" He projected images, captured from deep-space probes, of human warships engaging in exercises. The ships moved with a speed and coordination that defied the Xylar's understanding of physics. They twisted and turned, weaving through asteroid fields with an almost balletic grace, before unleashing a torrent of destructive power that left shattered remnants of rock in their wake. The images showed captured enemy vessels, their crews subjected to experiments. The Xylar recoiled at the glimpses of twisted metal and violated flesh. This was not war. This was slaughter.A shiver ran through the Xylar crew. They had heard the legends, of course. Tales whispered in hushed tones in the spaceports of a species that could smile and commit genocide in the same breath. Humans. The stories spoke of their capacity for both creation and destruction, their ability to build breathtaking works of art and then unleash devastation on a scale that could reshape worlds. They were a paradox, a species of contradictions, and that made them all the more terrifying. The Xylar had always dismissed these stories as hyperbole, the product of xenophobic fearmongering. Now, staring at the cold, hard evidence on the screen, they knew the truth. The legends were not exaggerated. They were warnings.The comm crackled to life. It was the lead scout ship. ""Captain, the Odyssey is changing course. It's heading towards the colony world of Cygnus VII."" The scout's voice was tight with a fear that mirrored the dread in Theron's own heart. Cygnus VII. A peaceful, agrarian world. Defenseless. A world of gentle farmers and sprawling fields of bioluminescent crops. A world that had never known war. It was a world ripe for the taking.Theron's eyes widened. ""They hunt,"" he breathed. The realization hit him with the force of a physical blow. The Odyssey wasn't merely traveling. It was stalking. It had been playing with them, allowing them to track it, lulling them into a false sense of security. Now, it was moving in for the kill. ""All ships, prepare for attack. We will not allow them to reach the prey.""The Xylar fleet surged forward, their sleek, bio-engineered hulls cutting through the void. They were fast, agile, but the Odyssey was faster. It danced among the stars, a predator toying with its prey. The human vessel moved with an almost supernatural grace, its engines leaving shimmering trails of distorted space in its wake. It weaved through the Xylar formation, scattering their ships like leaves in a storm.The battle was swift, brutal. The humans fought with a ferocity that belied their cheerful transmissions. Their weapons tore through Xylar armor like it was tissue paper. Missiles that bent space and time, energy beams that disintegrated matter, and something something worse. The Xylar called it the ""Null-Wave."" A weapon that didn't destroy, but erased. Erased matter, erased energy, erased existence. The Xylar had never encountered anything like it. Their most advanced defenses were rendered utterly useless.Theron watched in horror as his ships, his crew, vanished. Not in explosions of fire and light, but in a silent, absolute cessation. One moment they were there, their vibrant energy signatures blipping on his sensors, the next, they were gone, leaving behind only empty space and a chilling sense of wrongness. As if they had never been. Theron felt a cold dread creeping into his soul, a primal fear of the unknown, of the oblivion that awaited him.He locked eyes with the Odyssey through the viewport of his command ship. He could see them on the bridge, humans in their strange, form-fitting suits. They were smiling. Not the joyful smiles of friends, but the cold, predatory grins of killers. Their eyes, those strange, forward-facing eyes, gleamed with a hunger that transcended mere violence. It was a hunger for conquest, for domination, for the sheer act of hunting.The Odyssey fired again. The Null-Wave washed over Theron's ship. He felt a coldness seep into his very being, a sense of unbeing. His body, his memories, his very essence began to unravel, the edges of his consciousness blurring. He tried to scream, but there was no sound, no air, no anything. Then, there was nothing.Cygnus VII fell silent. The laughter of the humans echoed across the empty fields. The hunt was over. The Xylar fleet was gone, their ships reduced to cosmic dust, their crews erased from existence. The colony world, now defenseless, waited in terror for the arrival of its new masters. The humans had proven their point. They were not the playful, social creatures the galaxy had believed them to be. They were the hunters of the stars, and the galaxy was their hunting ground.",0.0192,0.1446,Y,3.9,4.0,4.1
+Code Generation,1,claude,single,"Write a Python function for the following task:
+from typing import List
+
+
+def has_close_elements(numbers: List[float], threshold: float) -> bool:
+    """""" Check if in given list of numbers, are any two numbers closer to each other than
+    given threshold.
+    >>> has_close_elements([1.0, 2.0, 3.0], 0.5)
+    False
+    >>> has_close_elements([1.0, 2.8, 3.0, 4.0, 5.0, 2.0], 0.3)
+    True
+    """"""","from typing import List
+
+def has_close_elements(numbers: List[float], threshold: float) -> bool:
+    """"""Check if in given list of numbers, any two numbers are closer to each other than
+    the given threshold.
+    
+    >>> has_close_elements([1.0, 2.0, 3.0], 0.5)
+    False
+    >>> has_close_elements([1.0, 2.8, 3.0, 4.0, 5.0, 2.0], 0.3)
+    True
+    """"""
+    numbers.sort()
+    for i in range(len(numbers) - 1):
+        if abs(numbers[i] - numbers[i + 1]) < threshold:
+            return True
+    return False
+",0.5705,0.7974,Y,4.0,3.5,4.2
+Code Generation,1,gemini,single,"Write a Python function for the following task:
+from typing import List
+
+
+def has_close_elements(numbers: List[float], threshold: float) -> bool:
+    """""" Check if in given list of numbers, are any two numbers closer to each other than
+    given threshold.
+    >>> has_close_elements([1.0, 2.0, 3.0], 0.5)
+    False
+    >>> has_close_elements([1.0, 2.8, 3.0, 4.0, 5.0, 2.0], 0.3)
+    True
+    """"""","from typing import List
+
+
+def has_close_elements(numbers: List[float], threshold: float) -> bool:
+    """"""
+    Check if in given list of numbers, are any two numbers closer to each other than
+    given threshold.
+
+    Args:
+        numbers: A list of floating-point numbers.
+        threshold: A floating-point number representing the distance threshold.
+
+    Returns:
+        True if there are two numbers in the list closer than the threshold, False otherwise.
+
+    Examples:
+        >>> has_close_elements([1.0, 2.0, 3.0], 0.5)
+        False
+        >>> has_close_elements([1.0, 2.8, 3.0, 4.0, 5.0, 2.0], 0.3)
+        True
+        >>> has_close_elements([1.0, 1.0], 0.1)
+        True
+        >>> has_close_elements([], 0.5)
+        False
+    """"""
+    if not numbers:  # Handle empty list case
+        return False
+
+    for i in range(len(numbers)):
+        for j in range(i + 1, len(numbers)):
+            if abs(numbers[i] - numbers[j]) < threshold:
+                return True
+    return False
+",0.4702,0.5036,Y,4.0,3.5,4.2
+Code Generation,1,claude,chained,"Step 1: Understand the task - HumanEval/0
+Step 2: Write a plan for the function.
+Step 3: Now write the complete Python function for: from typing import List
+
+
+def has_close_elements(numbers: List[float], threshold: float) -> bool:
+    """""" Check if in given list of numbers, are any two numbers closer to each other than
+    given threshold.
+    >>> has_close_elements([1.0, 2.0, 3.0], 0.5)
+    False
+    >>> has_close_elements([1.0, 2.8, 3.0, 4.0, 5.0, 2.0], 0.3)
+    True
+    """"""","from typing import List
+
+def has_close_elements(numbers: List[float], threshold: float) -> bool:
+    """""" Check if in given list of numbers, are any two numbers closer to each other than
+    given threshold.
+    >>> has_close_elements([1.0, 2.0, 3.0], 0.5)
+    False
+    >>> has_close_elements([1.0, 2.8, 3.0, 4.0, 5.0, 2.0], 0.3)
+    True
+    """"""
+    if len(numbers) < 2:
+        return False
+
+    sorted_numbers = sorted(numbers)
+
+    for i in range(len(sorted_numbers) - 1):
+        if abs(sorted_numbers[i] - sorted_numbers[i + 1]) < threshold:
+            return True
+
+    return False
+",0.6577,0.7294,Y,4.0,4.0,4.2
+Code Generation,1,gemini,chained,"Step 1: Understand the task - HumanEval/0
+Step 2: Write a plan for the function.
+Step 3: Now write the complete Python function for: from typing import List
+
+
+def has_close_elements(numbers: List[float], threshold: float) -> bool:
+    """""" Check if in given list of numbers, are any two numbers closer to each other than
+    given threshold.
+    >>> has_close_elements([1.0, 2.0, 3.0], 0.5)
+    False
+    >>> has_close_elements([1.0, 2.8, 3.0, 4.0, 5.0, 2.0], 0.3)
+    True
+    """"""","from typing import List
+
+
+def has_close_elements(numbers: List[float], threshold: float) -> bool:
+    """"""
+    Check if in given list of numbers, are any two numbers closer to each other than
+    given threshold.
+    >>> has_close_elements([1.0, 2.0, 3.0], 0.5)
+    False
+    >>> has_close_elements([1.0, 2.8, 3.0, 4.0, 5.0, 2.0], 0.3)
+    True
+    """"""
+    if not numbers:  # Handle empty list case
+        return False
+
+    for i in range(len(numbers)):
+        for j in range(i + 1, len(numbers)):
+            if abs(numbers[i] - numbers[j]) < threshold:
+                return True
+    return False
+",0.653,0.7251,Y,4.0,4.0,4.2
+Code Generation,2,claude,single,"Write a Python function for the following task:
+from typing import List
+
+
+def separate_paren_groups(paren_string: str) -> List[str]:
+    """""" Input to this function is a string containing multiple groups of nested parentheses. Your goal is to
+    separate those group into separate strings and return the list of those.
+    Separate groups are balanced (each open brace is properly closed) and not nested within each other
+    Ignore any spaces in the input string.
+    >>> separate_paren_groups('( ) (( )) (( )( ))')
+    ['()', '(())', '(()())']
+    """"""","from typing import List
+
+def separate_paren_groups(paren_string: str) -> List[str]:
+    """""" Input to this function is a string containing multiple groups of nested parentheses. Your goal is to
+    separate those groups into separate strings and return the list of those.
+    Separate groups are balanced (each open brace is properly closed) and not nested within each other
+    Ignore any spaces in the input string.
+    >>> separate_paren_groups('( ) (( )) (( )( ))')
+    ['()', '(())', '(()())']
+    """"""
+    result = []
+    current_group = ''
+    balance = 0
+
+    for char in paren_string:
+        if char == ' ':
+            continue
+        current_group += char
+        if char == '(':
+            balance += 1
+        elif char == ')':
+            balance -= 1
+        if balance == 0 and current_group:
+            result.append(current_group)
+            current_group = ''
+    
+    return result
+",0.8527,0.9444,Y,4.0,4.0,4.2
+Code Generation,2,gemini,single,"Write a Python function for the following task:
+from typing import List
+
+
+def separate_paren_groups(paren_string: str) -> List[str]:
+    """""" Input to this function is a string containing multiple groups of nested parentheses. Your goal is to
+    separate those group into separate strings and return the list of those.
+    Separate groups are balanced (each open brace is properly closed) and not nested within each other
+    Ignore any spaces in the input string.
+    >>> separate_paren_groups('( ) (( )) (( )( ))')
+    ['()', '(())', '(()())']
+    """"""","from typing import List
+
+def separate_paren_groups(paren_string: str) -> List[str]:
+    """"""
+    Input to this function is a string containing multiple groups of nested parentheses.
+    Your goal is to separate those group into separate strings and return the list of those.
+    Separate groups are balanced (each open brace is properly closed) and not nested
+    within each other. Ignore any spaces in the input string.
+    >>> separate_paren_groups('( ) (( )) (( )( ))')
+    ['()', '(())', '(()())']
+    """"""
+    paren_string = paren_string.replace("" "", """")  # Remove spaces
+    result = []
+    current_group = """"
+    open_count = 0
+
+    for char in paren_string:
+        current_group += char
+        if char == '(':
+            open_count += 1
+        elif char == ')':
+            open_count -= 1
+            if open_count == 0:
+                result.append(current_group)
+                current_group = """"
+
+    return result
+",0.8527,0.9444,Y,4.0,4.0,4.2
+Code Generation,2,claude,chained,"Step 1: Understand the task - HumanEval/1
+Step 2: Write a plan for the function.
+Step 3: Now write the complete Python function for: from typing import List
+
+
+def separate_paren_groups(paren_string: str) -> List[str]:
+    """""" Input to this function is a string containing multiple groups of nested parentheses. Your goal is to
+    separate those group into separate strings and return the list of those.
+    Separate groups are balanced (each open brace is properly closed) and not nested within each other
+    Ignore any spaces in the input string.
+    >>> separate_paren_groups('( ) (( )) (( )( ))')
+    ['()', '(())', '(()())']
+    """"""
+","from typing import List
+
+def separate_paren_groups(paren_string: str) -> List[str]:
+    """""" Input to this function is a string containing multiple groups of nested parentheses. Your goal is to
+    separate those groups into separate strings and return the list of those.
+    Separate groups are balanced (each open brace is properly closed) and not nested within each other.
+    Ignore any spaces in the input string.
+    >>> separate_paren_groups('( ) (( )) (( )( ))')
+    ['()', '(())', '(()())']
+    """"""
+    result = []
+    current_group = ''
+    balance = 0
+
+    for char in paren_string:
+        if char == ' ':
+            continue
+        current_group += char
+        if char == '(':
+            balance += 1
+        elif char == ')':
+            balance -= 1
+        if balance == 0 and current_group:
+            result.append(current_group)
+            current_group = ''
+    
+    return result
+",0.6555,0.7651,Y,4.0,4.0,4.2
+Code Generation,2,gemini,chained,"Step 1: Understand the task - HumanEval/1
+Step 2: Write a plan for the function.
+Step 3: Now write the complete Python function for: from typing import List
+
+
+def separate_paren_groups(paren_string: str) -> List[str]:
+    """""" Input to this function is a string containing multiple groups of nested parentheses. Your goal is to
+    separate those group into separate strings and return the list of those.
+    Separate groups are balanced (each open brace is properly closed) and not nested within each other
+    Ignore any spaces in the input string.
+    >>> separate_paren_groups('( ) (( )) (( )( ))')
+    ['()', '(())', '(()())']
+    """"""
+","from typing import List
+
+def separate_paren_groups(paren_string: str) -> List[str]:
+    """"""
+    Input to this function is a string containing multiple groups of nested parentheses.
+    Your goal is to separate those group into separate strings and return the list of those.
+    Separate groups are balanced (each open brace is properly closed) and not nested
+    within each other. Ignore any spaces in the input string.
+    >>> separate_paren_groups('( ) (( )) (( )( ))')
+    ['()', '(())', '(()())']
+    """"""
+    paren_string = paren_string.replace("" "", """")  # Remove spaces
+    result = []
+    current_group = """"
+    open_count = 0
+
+    for char in paren_string:
+        current_group += char
+        if char == '(':
+            open_count += 1
+        elif char == ')':
+            open_count -= 1
+            if open_count == 0:
+                result.append(current_group)
+                current_group = """"
+
+    return result
+",0.6887,0.7651,Y,4.0,44.0,4.2
+Code Generation,3,claude,single,"Write a Python function for the following task:
+
+
+def truncate_number(number: float) -> float:
+    """""" Given a positive floating point number, it can be decomposed into
+    and integer part (largest integer smaller than given number) and decimals
+    (leftover part always smaller than 1).
+
+    Return the decimal part of the number.
+    >>> truncate_number(3.5)
+    0.5
+    """"""","def truncate_number(number: float) -> float:
+    """""" Given a positive floating point number, it can be decomposed into
+    an integer part (largest integer smaller than given number) and decimals
+    (leftover part always smaller than 1).
+
+    Return the decimal part of the number.
+    >>> truncate_number(3.5)
+    0.5
+    """"""
+    return number - int(number)
+",0.7945,0.8679,Y,4.0,4.0,4.2
+Code Generation,3,gemini,single,"Write a Python function for the following task:
+
+
+def truncate_number(number: float) -> float:
+    """""" Given a positive floating point number, it can be decomposed into
+    and integer part (largest integer smaller than given number) and decimals
+    (leftover part always smaller than 1).
+
+    Return the decimal part of the number.
+    >>> truncate_number(3.5)
+    0.5
+    """"""","import math
+
+def truncate_number(number: float) -> float:
+    """"""
+    Given a positive floating point number, it can be decomposed into
+    an integer part (largest integer smaller than given number) and decimals
+    (leftover part always smaller than 1).
+
+    Return the decimal part of the number.
+    >>> truncate_number(3.5)
+    0.5
+    """"""
+    integer_part = math.floor(number)  # Get the integer part
+    decimal_part = number - integer_part # Subtract integer part from original number
+    return decimal_part
+",0.6192,0.736,Y,4.0,4.0,4.2
+Code Generation,3,claude,chained,"Step 1: Understand the task - HumanEval/2
+Step 2: Write a plan for the function.
+Step 3: Now write the complete Python function for: 
+
+def truncate_number(number: float) -> float:
+    """""" Given a positive floating point number, it can be decomposed into
+    and integer part (largest integer smaller than given number) and decimals
+    (leftover part always smaller than 1).
+
+    Return the decimal part of the number.
+    >>> truncate_number(3.5)
+    0.5
+    """"""","def truncate_number(number: float) -> float:
+    """""" Given a positive floating point number, it can be decomposed into
+    and integer part (largest integer smaller than given number) and decimals
+    (leftover part always smaller than 1).
+
+    Return the decimal part of the number.
+    >>> truncate_number(3.5)
+    0.5
+    """"""
+    return number - int(number)
+",0.6122,0.7705,Y,4.0,4.0,4.2
+Code Generation,3,gemini,chained,"Step 1: Understand the task - HumanEval/2
+Step 2: Write a plan for the function.
+Step 3: Now write the complete Python function for: 
+
+def truncate_number(number: float) -> float:
+    """""" Given a positive floating point number, it can be decomposed into
+    and integer part (largest integer smaller than given number) and decimals
+    (leftover part always smaller than 1).
+
+    Return the decimal part of the number.
+    >>> truncate_number(3.5)
+    0.5
+    """"""","import math
+
+def truncate_number(number: float) -> float:
+    """"""
+    Given a positive floating point number, it can be decomposed into
+    an integer part (largest integer smaller than given number) and decimals
+    (leftover part always smaller than 1).
+
+    Return the decimal part of the number.
+    >>> truncate_number(3.5)
+    0.5
+    """"""
+    integer_part = math.floor(number)  # Get the integer part
+    decimal_part = number - integer_part # Subtract integer part from original number
+    return decimal_part
+",0.6135,0.6525,Y,4.0,4.0,4.2
+Math Reasoning,1,claude,single,"Solve the following math word problem:
+Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?","Let's break down the math problem step by step:
+
+1. **Clips sold in April**: 
+   Natalia sold clips to 48 friends in April, so she sold 48 clips in April.
+
+2. **Clips sold in May**:
+   She sold half as many clips in May as she did in April. So, the number of clips sold in May is:
+   \[
+   \frac{48}{2} = 24
+   \]
+   Therefore, Natalia sold 24 clips in May.
+
+3. **Total clips sold**:
+   To find the total number of clips sold in both months, we add the clips sold in April and May:
+   \[
+   48 + 24 = 72
+   \]
+
+Thus, Natalia sold a total of **72 clips** in April and May.",0.1225,0.3817,Y,4.1,4.0,4.3
+Math Reasoning,1,gemini,single,"Solve the following math word problem:
+Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?","Here's how to solve the problem step-by-step:Clips sold in May: Natalia sold half as many clips in May as in April, so she sold 48 / 2 = 24 clips in May.Total clips sold: To find the total number of clips sold in April and May, add the number of clips sold in each month: 48 + 24 = 72 clips.So, Natalia sold 72 clips altogether in April and May.",0.1303,0.367,Y,4.1,4.0,4.3
+Math Reasoning,1,claude,chained,"Step 1: Break the problem into steps:
+Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?
+Step 2: Solve each step and compute the final answer.","Sure! Let's go through each step and compute the final answer:
+
+### Step 1: Clips sold in April
+- Natalia sold clips to 48 of her friends in April.
+  \[
+  \text{Clips sold in April} = 48
+  \]
+
+### Step 2: Clips sold in May
+- She sold half as many clips in May as she did in April.
+  \[
+  \frac{48}{2} = 24
+  \]
+  So, Natalia sold 24 clips in May.
+
+### Step 3: Total clips sold
+- To find the total number of clips sold in both April and May:
+  \[
+  48 + 24 = 72
+  \]
+
+### Final Answer:
+Natalia sold **72 clips** in total in April and May.",0.1939,0.4234,Y,4.1,4.0,4.3
+Math Reasoning,1,gemini,chained,"Step 1: Break the problem into steps:
+Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?
+Step 2: Solve each step and compute the final answer.","Here's how to solve the problem step-by-step:Clips sold in May: Natalia sold half as many clips in May as in April, so she sold 48 / 2 = 24 clips in May.Total clips sold: To find the total number of clips sold in April and May, add the number of clips sold in each month: 48 + 24 = 72 clips.So, Natalia sold 72 clips altogether in April and May.",0.1371,0.3333,Y,4.1,44.0,4.3
+Math Reasoning,2,claude,single,"Solve the following math word problem:
+Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?","Let's solve the problem step by step:
+
+### Step 1: Understand the hourly rate
+- Weng earns **$12 per hour** for babysitting.
+
+### Step 2: Convert the time into hours
+- Weng worked for **50 minutes** yesterday. To find her earnings, we first need to convert minutes into hours.
+  \[
+  50 \, \text{minutes} = \frac{50}{60} \, \text{hours} = \frac{5}{6} \, \text{hours}
+  \]
+
+### Step 3: Calculate her earnings
+- Now, we multiply her hourly rate by the fraction of the hour she worked:
+  \[
+  \text{Earnings} = 12 \times \frac{5}{6} = 10
+  \]
+
+### Final Answer:
+Weng earned **$10** for babysitting yesterday.",0.008,0.283,Y,4.1,4.0,4.3
+Math Reasoning,2,gemini,single,"Solve the following math word problem:
+Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?","Here's how to solve the problem step-by-step:Convert minutes to hours: Weng worked for 50 minutes, which is 50/60 = 5/6 of an hour.Calculate earnings: To find out how much Weng earned, multiply her hourly rate by the fraction of an hour she worked: $12 * (5/6) = $10.So, Weng earned $10.",0.0116,0.2892,Y,4.1,4.0,4.3
+Math Reasoning,2,claude,chained,"Step 1: Break the problem into steps:
+Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?
+Step 2: Solve each step and compute the final answer.","Let's solve each step and compute the final answer:
+
+### Step 1: Understand the hourly rate
+- Weng earns **$12 per hour** for babysitting.
+
+### Step 2: Convert 50 minutes into hours
+- There are **60 minutes in an hour**, so we convert 50 minutes into hours:
+  \[
+  50 \, \text{minutes} = \frac{50}{60} \, \text{hours}
+  \]
+  Simplifying:
+  \[
+  \frac{50}{60} = \frac{5}{6} \, \text{hours}
+  \]
+
+### Step 3: Calculate her earnings for 50 minutes
+- Weng earns **$12 per hour**, so to find out how much she earned for **\(\frac{5}{6}\) hours**, we multiply her hourly rate by the time worked:
+  \[
+  \text{Earnings} = 12 \times \frac{5}{6}
+  \]
+  Performing the multiplication:
+  \[
+  12 \times \frac{5}{6} = \frac{12 \times 5}{6} = \frac{60}{6} = 10
+  \]
+
+### Final Answer:
+Weng earned **$10** for babysitting 50 minutes yesterday.",0.0838,0.2222,Y,4.1,4.0,4.3
+Math Reasoning,2,gemini,chained,"Step 1: Break the problem into steps:
+Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?
+Step 2: Solve each step and compute the final answer.","Here's how to solve the problem step-by-step:Convert minutes to hours: Weng worked for 50 minutes, which is 50/60 = 5/6 of an hour.Calculate earnings: To find out how much Weng earned, multiply her hourly rate by the fraction of an hour she worked: $12 * (5/6) = $10.So, Weng earned $10.",0.0144,0.2553,Y,4.1,4.0,4.3
+Math Reasoning,3,claude,single,"Solve the following math word problem:
+Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?","Let's solve the problem step by step:
+
+### Step 1: Determine how much money Betty already has
+- The wallet costs **$100** in total, and Betty already has **half** of that amount.
+  \[
+  \text{Betty's current savings} = \frac{100}{2} = 50
+  \]
+  So, Betty already has **$50**.
+
+### Step 2: Calculate how much money Betty's parents gave her
+- Betty's parents gave her **$15** for the wallet.
+
+### Step 3: Calculate how much money Betty's grandparents gave her
+- Betty's grandparents gave her **twice as much** as her parents. So, they gave her:
+  \[
+  2 \times 15 = 30
+  \]
+  So, Betty's grandparents gave her **$30**.
+
+### Step 4: Calculate the total amount of money Betty will have
+- Now, add up the money Betty already has, plus what her parents and grandparents gave her:
+  \[
+  50 + 15 + 30 = 95
+  \]
+  So, Betty will have **$95** in total.
+
+### Step 5: Determine how much more money Betty needs
+- The wallet costs **$100**, and Betty will have **$95** after receiving the money.
+  \[
+  100 - 95 = 5
+  \]
+  So, Betty still needs **$5** to buy the wallet.
+
+### Final Answer:
+Betty needs **$5** more to buy the wallet.",0.0047,0.3022,Y,4.1,4.0,4.3
+Math Reasoning,3,gemini,single,"Solve the following math word problem:
+Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?","Here's how to solve the problem step-by-step:Money Betty has: Betty has half the money she needs, so she has $100 / 2 = $50.Money from grandparents: Betty's grandparents gave her twice as much as her parents, so they gave her $15 * 2 = $30.Total money Betty has: To find the total amount of money Betty has, add the money she had initially, the money from her parents, and the money from her grandparents: $50 + $15 + $30 = $95.Money still needed: To find out how much more money Betty needs, subtract the total money she has from the cost of the wallet: $100 - $95 = $5.So, Betty still needs $5 to buy the wallet.",0.078,0.32,Y,4.1,4.0,4.3
+Math Reasoning,3,claude,chained,"Step 1: Break the problem into steps:
+Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?
+Step 2: Solve each step and compute the final answer.","Let's solve each step and compute the final answer:
+
+### Step 1: Calculate how much money Betty already has
+- The wallet costs **$100**, and Betty has **half** of that amount.
+  \[
+  \text{Betty's current savings} = \frac{100}{2} = 50
+  \]
+  So, Betty already has **$50**.
+
+### Step 2: Determine how much money Betty's parents gave her
+- Betty's parents gave her **$15**.
+
+### Step 3: Determine how much money Betty's grandparents gave her
+- Betty's grandparents gave her **twice as much** as her parents. Therefore:
+  \[
+  \text{Grandparents' contribution} = 2 \times 15 = 30
+  \]
+  So, Betty's grandparents gave her **$30**.
+
+### Step 4: Calculate Betty's total savings
+- Now, add up the money Betty already has, plus what her parents and grandparents gave her:
+  \[
+  \text{Total savings} = 50 + 15 + 30 = 95
+  \]
+  So, Betty will have **$95** in total.
+
+### Step 5: Calculate how much more money Betty needs
+- The wallet costs **$100**, and Betty will have **$95**. To find out how much more money Betty needs:
+  \[
+  100 - 95 = 5
+  \]
+
+### Final Answer:
+Betty still needs **$5** more to buy the wallet.",0.0922,0.3067,Y,4.1,4.0,4.3
+Math Reasoning,3,gemini,chained,"Step 1: Break the problem into steps:
+Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?
+Step 2: Solve each step and compute the final answer.","Here's how to solve the problem step-by-step:Money Betty has: Betty has half the money she needs, so she has $100 / 2 = $50.Money from grandparents: Betty's grandparents gave her twice as much as her parents, so they gave her $15 * 2 = $30.Total money Betty has: To find the total amount of money Betty has, add the money she had initially, the money from her parents, and the money from her grandparents: $50 + $15 + $30 = $95.Money still needed: To find out how much more money Betty needs, subtract the total money she has from the cost of the wallet: $100 - $95 = $5.So, Betty still needs $5 to buy the wallet.",0.0814,0.2981,Y,4.1,4.0,4.3
+Summarization,1,claude,single,"Summarize the following article:
+LONDON, England (Reuters) -- Harry Potter star Daniel Radcliffe gains access to a reported £20 million ($41.1 million) fortune as he turns 18 on Monday, but he insists the money won't cast a spell on him. Daniel Radcliffe as Harry Potter in ""Harry Potter and the Order of the Phoenix"" To the disappointment of gossip columnists around the world, the young actor says he has no plans to fritter his cash away on fast cars, drink and celebrity parties. ""I don't plan to be one of those people who, as s
+CHAINED","Daniel Radcliffe, the star of the *Harry Potter* series, will inherit a reported £20 million ($41.1 million) fortune when he turns 18. However, he insists that the money won't change him. Despite the expectations of gossip columnists, Radcliffe says he has no intention of spending his wealth on fast cars, partying, or excessive indulgence. Instead, he plans to manage his fortune wisely.",0.1423,0.4706,Y,4.2,4.0,4.1
+Summarization,1,gemini,single,"Summarize the following article:
+LONDON, England (Reuters) -- Harry Potter star Daniel Radcliffe gains access to a reported £20 million ($41.1 million) fortune as he turns 18 on Monday, but he insists the money won't cast a spell on him. Daniel Radcliffe as Harry Potter in ""Harry Potter and the Order of the Phoenix"" To the disappointment of gossip columnists around the world, the young actor says he has no plans to fritter his cash away on fast cars, drink and celebrity parties. ""I don't plan to be one of those people who, as s
+CHAINED","Here is a summary of the article:The article reports that on his 18th birthday, Harry Potter star Daniel Radcliffe gained access to a large fortune, reportedly £20 million ($41.1 million). However, Radcliffe stated that he does not intend to squander the money on extravagant purchases or typical celebrity behavior.",0.0672,0.3,Y,4.2,4.0,4.1
+Summarization,1,claude,chained,"Step 1: Identify the key points in the article.
+Step 2: Use the key points to write a concise summary.","Daniel Radcliffe will gain access to a £20 million ($41.1 million) fortune when he turns 18. Despite public expectations, he insists that the money won't change him, and he has no plans to indulge in fast cars, drinking, or parties. Radcliffe aims to manage his wealth responsibly.",0.0055,0.1159,Y,4.2,4.0,4.1
+Summarization,1,gemini,chained,"Step 1: Identify the key points in the article.
+Step 2: Use the key points to write a concise summary.","Here is a concise summary of the article, based on the key points:Upon turning 18, Harry Potter star Daniel Radcliffe acquired a large fortune but expressed his intention to avoid extravagant spending.",0.0193,0.2264,Y,4.2,4.0,4.1
+Summarization,2,claude,single,"Summarize the following article:
+Editor's note: In our Behind the Scenes series, CNN correspondents share their experiences in covering news and analyze the stories behind the events. Here, Soledad O'Brien takes users inside a jail where many of the inmates are mentally ill. An inmate housed on the ""forgotten floor,"" where many mentally ill inmates are housed in Miami before trial. MIAMI, Florida (CNN) -- The ninth floor of the Miami-Dade pretrial detention facility is dubbed the ""forgotten floor."" Here, inmates with the most s
+","In this article from CNN's Behind the Scenes series, Soledad O'Brien takes readers inside the Miami-Dade pretrial detention facility, specifically the ninth floor, known as the ""forgotten floor."" This floor houses many mentally ill inmates awaiting trial. The article sheds light on the conditions and challenges faced by these inmates, highlighting the often-overlooked issue of mental illness in the criminal justice system.",0.1205,0.3129,Y,4.2,4.0,4.1
+Summarization,2,gemini,single,"Summarize the following article:
+Editor's note: In our Behind the Scenes series, CNN correspondents share their experiences in covering news and analyze the stories behind the events. Here, Soledad O'Brien takes users inside a jail where many of the inmates are mentally ill. An inmate housed on the ""forgotten floor,"" where many mentally ill inmates are housed in Miami before trial. MIAMI, Florida (CNN) -- The ninth floor of the Miami-Dade pretrial detention facility is dubbed the ""forgotten floor."" Here, inmates with the most s
+","Here is a summary of the article:The article describes the ""forgotten floor"" of the Miami-Dade pretrial detention facility, where many mentally ill inmates are housed before their trial.",0.0641,0.2883,Y,4.2,4.0,4.1
+Summarization,2,claude,chained,"Step 1: Identify the key points in the article.
+Step 2: Use the key points to write a concise summary.","The ninth floor of the Miami-Dade pretrial detention facility, known as the ""forgotten floor,"" houses many mentally ill inmates awaiting trial. The article focuses on the conditions and challenges faced by these inmates within the criminal justice system.",0.0064,0.1356,Y,4.2,4.0,4.1
+Summarization,2,gemini,chained,"Step 1: Identify the key points in the article.
+Step 2: Use the key points to write a concise summary.","Here is a concise summary of the article, based on the key points:The article describes the ""forgotten floor"" of the Miami-Dade pretrial detention facility, which houses a significant number of mentally ill inmates awaiting trial.",0.0176,0.2456,Y,4.2,4.0,4.1
+Summarization,3,claude,single,"Summarize the following article:
+MINNEAPOLIS, Minnesota (CNN) -- Drivers who were on the Minneapolis bridge when it collapsed told harrowing tales of survival. ""The whole bridge from one side of the Mississippi to the other just completely gave way, fell all the way down,"" survivor Gary Babineau told CNN. ""I probably had a 30-, 35-foot free fall. And there's cars in the water, there's cars on fire. The whole bridge is down."" He said his back was injured but he determined he could move around. ""I realized there was a school bus 
+","Survivors of the Minneapolis bridge collapse shared dramatic accounts of their experiences. Gary Babineau, a survivor, described the terrifying moment when the bridge completely gave way, causing a 30- to 35-foot free fall. He witnessed cars in the water and on fire. Despite injuring his back, Babineau managed to move around and noticed a school bus amid the wreckage.",0.0358,0.3514,Y,4.2,4.0,4.1
+Summarization,3,gemini,single,"Summarize the following article:
+MINNEAPOLIS, Minnesota (CNN) -- Drivers who were on the Minneapolis bridge when it collapsed told harrowing tales of survival. ""The whole bridge from one side of the Mississippi to the other just completely gave way, fell all the way down,"" survivor Gary Babineau told CNN. ""I probably had a 30-, 35-foot free fall. And there's cars in the water, there's cars on fire. The whole bridge is down."" He said his back was injured but he determined he could move around. ""I realized there was a school bus ","Here is a summary of the article:The article describes the harrowing experiences of drivers who survived the Minneapolis bridge collapse. One survivor, Gary Babineau, recounts the bridge collapsing and falling, with cars falling into the water and catching fire. Babineau himself fell a significant distance and sustained a back injury. He also mentioned seeing a school bus at the scene.",0.0178,0.255,Y,4.2,4.0,4.1
+Summarization,3,claude,chained,"Step 1: Identify the key points in the article.
+Step 2: Use the key points to write a concise summary.","Survivors of the Minneapolis bridge collapse shared harrowing accounts, including Gary Babineau, who described falling 30-35 feet as the bridge completely gave way. He witnessed cars in the water and on fire, and despite injuring his back, he managed to move around and noticed a school bus in the wreckage.",0.0102,0.1408,Y,4.2,4.0,4.1
+Summarization,3,gemini,chained,"Step 1: Identify the key points in the article.
+Step 2: Use the key points to write a concise summary.","Here is a concise summary of the article, based on the key points:The article describes the Minneapolis bridge collapse, detailing survivors' harrowing experiences, including one survivor's account of the bridge collapsing, cars falling into the water and catching fire, and a school bus being present.",0.0135,0.209,Y,4.2,4.0,4.1
